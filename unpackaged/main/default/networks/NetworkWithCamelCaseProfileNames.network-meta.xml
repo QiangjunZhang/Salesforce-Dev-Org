@@ -30,7 +30,7 @@
     <logoutUrl>https://ccrs.dfeh.ca.gov/CCRS_Home</logoutUrl>
     <maxFileSizeKb>2097152</maxFileSizeKb>
     <networkMemberGroups>
-        <profile>admin </profile>
+        <profile>admin</profile>
         <profile>dfeh Portal Plus</profile>
         <profile>IT Support</profile>
         <profile>Data Administrator</profile>
