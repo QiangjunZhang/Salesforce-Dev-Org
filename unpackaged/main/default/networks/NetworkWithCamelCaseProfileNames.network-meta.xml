@@ -30,14 +30,14 @@
     <logoutUrl>https://ccrs.dfeh.ca.gov/CCRS_Home</logoutUrl>
     <maxFileSizeKb>2097152</maxFileSizeKb>
     <networkMemberGroups>
-        <profile>Admin</profile>
-        <profile>DFEH Portal Plus</profile>
+        <profile>admin</profile>
+        <profile>dfeh Portal Plus</profile>
         <profile>IT Support</profile>
         <profile>Data Administrator</profile>
-        <profile>Legal %28Law Clerk%29</profile>
+        <profile>Legal (Law Clerk)</profile>
         <profile>Legal %28Base%29</profile>
         <profile>Enforcement %28OT%29</profile>
-        <profile>Enforcement %28Base%29</profile>
+        <profile>Enforcement (Base)</profile>
         <profile>DRD %28Mediators%29</profile>
         <profile>DRD %28Admin%29</profile>
         <profile>Executive Programs</profile>
@@ -52,7 +52,7 @@
         <selfRegProfilePageOverrideSetting>VisualForce</selfRegProfilePageOverrideSetting>
     </networkPageOverrides>
     <picassoSite>Cal_Civil_Rights_System_C</picassoSite>
-    <selfRegProfile>DFEH Portal Plus</selfRegProfile>
+    <selfRegProfile>dfeh Portal Plus</selfRegProfile>
     <selfRegistration>true</selfRegistration>
     <sendWelcomeEmail>true</sendWelcomeEmail>
     <site>Cal_Civil_Rights_System</site>
