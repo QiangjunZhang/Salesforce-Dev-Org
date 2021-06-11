@@ -13,4 +13,11 @@
         <shortDescription>second label</shortDescription>
         <value>2</value>
     </labels>
+    <labels>
+        <fullName>third_label</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>third label</shortDescription>
+        <value>3</value>
+    </labels>
 </CustomLabels>
