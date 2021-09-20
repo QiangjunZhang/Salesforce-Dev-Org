@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkSkillRouting xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isActive>true</isActive>
+    <masterLabel>LanguageSet</masterLabel>
+    <relatedEntity>LiveChatTranscript</relatedEntity>
+    <workSkillRoutingAttributes>
+        <field>LiveChatTranscript.AccountId</field>
+        <isAdditionalSkill>false</isAdditionalSkill>
+        <skill>English</skill>
+        <skillLevel>0</skillLevel>
+        <value>0014L000006uQeA</value>
+    </workSkillRoutingAttributes>
+    <workSkillRoutingAttributes>
+        <field>LiveChatTranscript.LiveChatButtonId</field>
+        <isAdditionalSkill>false</isAdditionalSkill>
+        <skill>English</skill>
+        <skillLevel>0</skillLevel>
+        <value>5734L000000TSEk</value>
+    </workSkillRoutingAttributes>
+    <workSkillRoutingAttributes>
+        <field>LiveChatTranscript.SkillId</field>
+        <isAdditionalSkill>false</isAdditionalSkill>
+        <skill>ChiNese</skill>
+        <skillLevel>0</skillLevel>
+        <value>0C54L000000KzIW</value>
+    </workSkillRoutingAttributes>
+</WorkSkillRouting>
