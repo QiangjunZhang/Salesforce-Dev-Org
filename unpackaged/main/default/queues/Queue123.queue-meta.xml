@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Queue xmlns="http://soap.sforce.com/2006/04/metadata">
     <doesSendEmailToMembers>false</doesSendEmailToMembers>
     <name>Queue123</name>
     <queueMembers>
-        
+        <users>
+            <user>integration@00d4l000000edxrua4.com</user>
+        </users>
     </queueMembers>
     <queueSobject>
         <sobjectType>AlternativePaymentMethod</sobjectType>
