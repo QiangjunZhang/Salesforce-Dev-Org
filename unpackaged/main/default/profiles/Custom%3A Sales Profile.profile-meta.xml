@@ -191,6 +191,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>MyObject__c.MyNewField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>MySecondObject__c.MyField__c</field>
         <readable>true</readable>
     </fieldPermissions>
