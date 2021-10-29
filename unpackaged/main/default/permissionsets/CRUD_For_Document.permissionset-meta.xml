@@ -107,6 +107,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Case.Product__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>MyObject__c.my_field__c</field>
         <readable>false</readable>
     </fieldPermissions>
