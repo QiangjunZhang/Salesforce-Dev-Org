@@ -140,9 +140,9 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.CustomerPriority__c</field>
+        <field>Account.NumberofLocations__c</field>
         <readable>false</readable>
-    </fieldPermissions>
+      </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Platinum_user__c</field>
