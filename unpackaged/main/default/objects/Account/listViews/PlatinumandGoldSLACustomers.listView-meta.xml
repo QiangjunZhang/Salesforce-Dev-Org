@@ -7,5 +7,5 @@
     <columns>ACCOUNT.PHONE1</columns>
     <columns>CORE.USERS.ALIAS</columns>
     <filterScope>Everything</filterScope>
-    <label>Platinum and Gold SLA Customers test</label>
+    <label>Platinum and Gold SLA Customers</label>
 </ListView>

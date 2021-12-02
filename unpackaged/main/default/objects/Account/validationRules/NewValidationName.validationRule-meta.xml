@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>NewValidationName</fullName>
+    <active>true</active>
+    <errorConditionFormula>Name  &lt;&gt; ""</errorConditionFormula>
+    <errorMessage>wrong account number</errorMessage>
+</ValidationRule>
