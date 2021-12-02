@@ -4,6 +4,6 @@
     <defaultValue>false</defaultValue>
     <externalId>false</externalId>
     <label>MyCheckBox</label>
-    <trackTrending>true</trackTrending>
+    <trackTrending>false</trackTrending>
     <type>Checkbox</type>
 </CustomField>
