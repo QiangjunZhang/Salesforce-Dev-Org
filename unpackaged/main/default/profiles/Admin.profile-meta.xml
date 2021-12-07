@@ -136,14 +136,14 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.NewField</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.NumberofLocations__c</field>
         <readable>false</readable>
       </fieldPermissions>
-    <fieldPermissions>
+      <fieldPermissions>
         <editable>true</editable>
         <field>Account.Platinum_user__c</field>
         <readable>true</readable>
@@ -151,11 +151,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.SLAExpirationDate__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.SLASerialNumber__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
