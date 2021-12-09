@@ -248,12 +248,12 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>LiveChatTranscript.AccountId</field>
-        <readable>true</readable>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>LiveChatTranscript.AverageResponseTimeOperator</field>
-        <readable>true</readable>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
