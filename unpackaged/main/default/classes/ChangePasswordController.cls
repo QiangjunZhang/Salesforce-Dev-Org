@@ -1,6 +1,6 @@
 /**
  * An apex page controller that exposes the change password functionality
- * Some additional notes I've made to this Apex class
+ * Some additional notes I've made to this Apex class ...
  */
 public with sharing class ChangePasswordController {
     public String oldPassword {get; set;}
