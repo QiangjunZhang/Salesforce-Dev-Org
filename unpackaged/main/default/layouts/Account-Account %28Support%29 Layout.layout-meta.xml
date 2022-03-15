@@ -13,7 +13,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Name</field>
+                <field>NewName</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
