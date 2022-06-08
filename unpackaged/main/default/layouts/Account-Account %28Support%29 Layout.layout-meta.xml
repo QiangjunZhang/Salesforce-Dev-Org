@@ -16,6 +16,10 @@
                 <field>NewName</field>
             </layoutItems>
             <layoutItems>
+                <behavior>Required</behavior>
+                <field>NewField</field>
+            </layoutItems>
+            <layoutItems>
                 <behavior>Edit</behavior>
                 <field>ParentId</field>
             </layoutItems>
