@@ -4015,4 +4015,8 @@
         <enabled>true</enabled>
         <name>ViewSetup</name>
     </userPermissions>
+    <classAccesses>
+        <apexClass>ChangePasswordController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
 </Profile>
