@@ -148,4 +148,8 @@
             <name>Flow Interview Logs</name>
         </sections>
     </reportTypes>
+    <customTabs>
+        <label><!-- MyNewPage --></label>
+        <name>MyNewPage</name>
+    </customTabs>
 </Translations>

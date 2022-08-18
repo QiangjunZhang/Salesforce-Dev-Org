@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Layout xmlns="http://soap.sforce.com/2006/04/metadata">
     <excludeButtons>Submit</excludeButtons>
     <layoutSections>
@@ -13,7 +13,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>NewName</field>
+                <field>Name</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -21,7 +21,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>NewAccountNumber</field>
+                <field>AccountNumber</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Site</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -29,7 +33,15 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>Fax</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>Website</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>MyNewField__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
@@ -39,11 +51,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>SLA__c</field>
+                <field>CustomerPriority__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>CustomerPriority__c</field>
+                <field>SLA__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -168,8 +180,8 @@
                 <customLink>Billing</customLink>
             </layoutItems>
         </layoutColumns>
-        <layoutColumns/>
-        <layoutColumns/>
+        <layoutColumns />
+        <layoutColumns />
         <style>CustomLinks</style>
     </layoutSections>
     <platformActionList>

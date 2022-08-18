@@ -7,6 +7,5 @@ trigger AccountDeletion on Account (before delete) {
         Trigger.oldMap.get(a.Id).addError(
             'Cannot delete account with related opportunities.');
     }
-    //dummy comment
 
 }
