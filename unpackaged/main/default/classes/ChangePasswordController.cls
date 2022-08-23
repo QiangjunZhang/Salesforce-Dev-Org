@@ -1,6 +1,7 @@
 /**
  * An apex page controller that exposes the change password functionality
  * Some addition notes for this apex class
+ * To test delta ci
  */
 public with sharing class ChangePasswordController {
     public String oldPassword {get; set;}
