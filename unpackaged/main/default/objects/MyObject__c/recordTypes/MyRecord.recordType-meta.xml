@@ -2,6 +2,6 @@
 <RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>MyRecord</fullName>
     <active>true</active>
-    <description>tests</description>
+    <description>tests2</description>
     <label>MyRecord</label>
 </RecordType>
