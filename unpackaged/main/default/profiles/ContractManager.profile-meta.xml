@@ -272,7 +272,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.UpsellOpportunity__c</field>
+        <field>Account.UpsellOpportunity__c.</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
