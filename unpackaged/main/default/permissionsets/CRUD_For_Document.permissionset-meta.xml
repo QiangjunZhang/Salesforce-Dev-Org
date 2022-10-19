@@ -52,7 +52,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Case.PotentialLiabiLity__c</field>
+        <field>Case.PotentialLiability__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
