@@ -11,5 +11,10 @@
     
     
     
+    <recordTypes>
+        <description><!-- tests2 --></description>
+        <label><!-- MyRecord --></label>
+        <name>MyRecord</name>
+    </recordTypes>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

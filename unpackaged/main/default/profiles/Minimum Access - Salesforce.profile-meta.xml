@@ -25,6 +25,11 @@
         <visible>false</visible>
     </applicationVisibilities>
     <applicationVisibilities>
+        <application>standard__DataManager</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
         <application>standard__Insights</application>
         <default>false</default>
         <visible>false</visible>
@@ -208,6 +213,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Customer.TotalLifeTimeValue</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>EngagementChannelType.ContactPointType</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -683,10 +693,32 @@
         <layout>BusinessBrand-Business Brand Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>CartCheckoutSession-Cart Checkout Session Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>CartDeliveryGroup-Cart Delivery Group Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>CartItem-Cart Item Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>CartTax-Cart Tax Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>CartValidationOutput-Cart Validation Output Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>CollaborationGroup-Group Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Contact-Contact Layout</layout>
+        <recordType>Contact.MyRecordType</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Customer-Customer Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>EngagementChannelType-Engagement Channel Type Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>FinanceBalanceSnapshot-Finance Balance Snapshot Layout</layout>
@@ -725,6 +757,10 @@
         <layout>MyObject__c-MyObject Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>MyObject__c-MyObject Layout</layout>
+        <recordType>MyObject__c.MyRecord</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>MySecondObject__c-MySecondObject Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -749,6 +785,15 @@
         <layout>UserAlt-User Profile Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>WebCart-Cart Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WebCartAdjustmentBasis-Cart Adjustment Basis Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>WebCartAdjustmentGroup-Cart Adjustment Group Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>WebStore-Store Layout</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
@@ -757,9 +802,19 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Contact.MyRecordType</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
         <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>MyObject__c.MyRecord</recordType>
+        <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
         <tab>MyNewPage</tab>
@@ -895,6 +950,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-ContractLineItem</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>standard-Coupon</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -1086,6 +1145,10 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>standard-PromotionSegment</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>standard-QuickText</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
@@ -1102,7 +1165,15 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>standard-RescheduleAppointments</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>standard-ReturnOrder</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>standard-ScheduleAppointments</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
