@@ -28,7 +28,7 @@
         <locationX>179</locationX>
         <locationY>449</locationY>
         <inputAssignments>
-            <field>NewNumberField__c</field>
+            <field>Amount</field>
             <value>
                 <numberValue>111.0</numberValue>
             </value>
