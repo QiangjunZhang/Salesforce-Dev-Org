@@ -27,7 +27,7 @@
         "callToActionUrl" : "",
         "confirmationSubtext" : "We’ll get back to you soon.",
         "confirmationText" : "Your case was created.",
-        "guestQuickActionName" : "Select or configure a global action",
+        "guestQuickActionName" : "Select or configure a global action...",
         "headerSubtitle" : "Tell us how we can help.",
         "headerTitle" : "Contact Customer Support",
         "isMicrobatch" : false,
