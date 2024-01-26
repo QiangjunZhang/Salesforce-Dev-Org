@@ -4,7 +4,6 @@
  * Testing
  * Some description
  * test matching
- * sdagagagtwt
  */
 public with sharing class ChangePasswordController {
     public String oldPassword {get; set;}
