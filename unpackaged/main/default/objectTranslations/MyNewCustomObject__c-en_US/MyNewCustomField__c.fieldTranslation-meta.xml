@@ -2,4 +2,5 @@
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
         <label><!-- MyNewCustomField --></label>
         <name>MyNewCustomField__c</name>
+        <relationshipLabel>Volunteer Opportunities 1234</relationshipLabel>
     </CustomFieldTranslation>
