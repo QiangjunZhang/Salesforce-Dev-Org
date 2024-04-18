@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+﻿<?xml version="1.0" encoding="utf-8"?><Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>false</custom>
-    <customSettingAccesses><enabled>true</enabled><name>Field_Trip__Logistics__c</name></customSettingAccesses>
     <fieldPermissions><editable>true</editable><field>Account.Active__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Account.CustomerPriority__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Account.MyNewField__c</field><readable>true</readable></fieldPermissions>
@@ -24,9 +23,6 @@
     <fieldPermissions><editable>true</editable><field>Lead.Primary__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Lead.ProductInterest__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Lead.SICCode__c</field><readable>true</readable></fieldPermissions>
-    <fieldPermissions><editable>true</editable><field>MyNewCustomObject__c.MyNewCustomField__c</field><readable>true</readable></fieldPermissions>
-    <fieldPermissions><editable>true</editable><field>MyObject__c.MyNewCheckBox__c</field><readable>true</readable></fieldPermissions>
-    <fieldPermissions><editable>true</editable><field>MySecondObject__c.MyField__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Opportunity.CurrentGenerators__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Opportunity.DB_Competitor__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Opportunity.DeliveryInstallationStatus__c</field><readable>true</readable></fieldPermissions>
