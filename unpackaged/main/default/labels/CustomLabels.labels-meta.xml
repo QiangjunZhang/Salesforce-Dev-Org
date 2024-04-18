@@ -10,7 +10,7 @@
         <fullName>second_label</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>second label</shortDescription>
+        <shortDescription>my second label</shortDescription>
         <value>2</value>
     </labels>
 </CustomLabels>
