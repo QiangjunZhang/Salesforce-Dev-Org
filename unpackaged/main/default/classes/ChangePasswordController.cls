@@ -1,10 +1,5 @@
 /**
- * An apex page controller that exposes the change password functionality
- * Additional notes
- * Testing
- * Some description
- * test matching
- * sdagagagtwt
+ * Gearset is awesome!!!
  */
 public with sharing class ChangePasswordController {
     public String oldPassword {get; set;}
