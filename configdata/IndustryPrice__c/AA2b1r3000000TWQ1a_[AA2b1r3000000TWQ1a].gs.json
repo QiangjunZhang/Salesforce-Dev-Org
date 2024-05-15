@@ -1,0 +1,19 @@
+{
+  "Object": "IndustryPrice__c",
+  "Fields": {
+    "GearsetDisplayName": "AA2b1r3000000TWQ1a",
+    "GearsetExternalId__c": "AA2b1r3000000TWQ1a",
+    "IPIndustry__c": "Healthcare",
+    "IPPrice__c": "495.0",
+    "IPSLA__c": "Bronze"
+  },
+  "References": [
+    {
+      "Name": "IPProduct__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAYoMo3100000TWt10"
+      }
+    }
+  ]
+}

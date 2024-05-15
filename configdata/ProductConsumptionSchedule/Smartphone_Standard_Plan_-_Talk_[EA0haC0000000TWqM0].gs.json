@@ -1,0 +1,23 @@
+{
+  "Object": "ProductConsumptionSchedule",
+  "Fields": {
+    "GearsetDisplayName": "Smartphone Standard Plan - Talk",
+    "GearsetExternalId__c": "EA0haC0000000TWqM0"
+  },
+  "References": [
+    {
+      "Name": "ConsumptionSchedule",
+      "ReferencedObject": "ConsumptionSchedule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "UA0HcC0000000TWhM0"
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "YAYVMo3100000TWt10"
+      }
+    }
+  ]
+}
