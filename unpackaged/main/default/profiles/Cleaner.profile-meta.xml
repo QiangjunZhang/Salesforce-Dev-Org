@@ -557,6 +557,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Event.Type</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Campaign.AmountWonOpportunities</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -4774,7 +4779,7 @@
         <name>ViewSetup</name>
     </userPermissions>
     <classAccesses>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <apexClass>ChangePasswordController</apexClass>
     </classAccesses>
 </Profile>
