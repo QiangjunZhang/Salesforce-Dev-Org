@@ -1,5 +1,6 @@
 /**
  * Refresh types is so easy now
+ * New changes
  */
 public with sharing class ChangePasswordController {
     public String oldPassword {get; set;}
