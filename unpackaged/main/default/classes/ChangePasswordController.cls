@@ -1,5 +1,5 @@
 /**
- * Gearset is awesome!!!
+ * Refresh types is so easy now
  */
 public with sharing class ChangePasswordController {
     public String oldPassword {get; set;}
