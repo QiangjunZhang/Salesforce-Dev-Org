@@ -1,5 +1,5 @@
 /**
- * Gearset is awesome!!!
+ * Lemon team
  */
 public with sharing class ChangePasswordController {
     public String oldPassword {get; set;}
