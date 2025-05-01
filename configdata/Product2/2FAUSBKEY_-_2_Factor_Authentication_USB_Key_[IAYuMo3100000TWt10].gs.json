@@ -10,6 +10,7 @@
     "GearsetExternalId__c": "IAYuMo3100000TWt10",
     "IsActive": "true",
     "Name": "2 Factor Authentication USB Key",
+    "NewCheckBox__c": "false",
     "ProductCode": "2FAUSBKEY",
     "QuantityUnitOfMeasure": "",
     "Region__c": "",

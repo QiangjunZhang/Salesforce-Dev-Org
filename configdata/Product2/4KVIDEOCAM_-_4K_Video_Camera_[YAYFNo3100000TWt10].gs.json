@@ -10,6 +10,7 @@
     "GearsetExternalId__c": "YAYFNo3100000TWt10",
     "IsActive": "true",
     "Name": "4K Video Camera",
+    "NewCheckBox__c": "false",
     "ProductCode": "4KVIDEOCAM",
     "QuantityUnitOfMeasure": "",
     "Region__c": "",

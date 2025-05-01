@@ -10,6 +10,7 @@
     "GearsetExternalId__c": "IAYkMo3100000TWt10",
     "IsActive": "true",
     "Name": "10kWh Battery",
+    "NewCheckBox__c": "false",
     "ProductCode": "10KWHBATTERY",
     "QuantityUnitOfMeasure": "",
     "Region__c": "",
