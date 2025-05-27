@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "RETPOSENT",
+    "GearsetDisplayName": "Retail POS Enterprise",
+    "GearsetExternalId__c": "HAE6gQQF000002dB11",
+    "Name": "Retail POS Enterprise",
+    "Status": "Active"
+  },
+  "References": []
+}
