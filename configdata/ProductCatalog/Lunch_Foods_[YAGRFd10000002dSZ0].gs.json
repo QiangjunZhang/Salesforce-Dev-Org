@@ -1,0 +1,14 @@
+{
+  "Object": "ProductCatalog",
+  "Fields": {
+    "CatalogType": "Sales",
+    "Code": "",
+    "Description": "",
+    "EffectiveEndDate": "",
+    "EffectiveStartDate": "",
+    "GearsetDisplayName": "Lunch Foods",
+    "GearsetExternalId__c": "YAGRFd10000002dSZ0",
+    "Name": "Lunch Foods"
+  },
+  "References": []
+}
