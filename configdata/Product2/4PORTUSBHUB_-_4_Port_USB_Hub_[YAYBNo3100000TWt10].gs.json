@@ -10,6 +10,7 @@
     "GearsetExternalId__c": "YAYBNo3100000TWt10",
     "IsActive": "true",
     "Name": "4 Port USB Hub",
+    "NewCheckBox__c": "false",
     "ProductCode": "4PORTUSBHUB",
     "QuantityUnitOfMeasure": "",
     "Region__c": "",
