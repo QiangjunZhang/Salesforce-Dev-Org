@@ -78,7 +78,7 @@
   },
   "References": [
     {
-      "Name": "BasedOn",
+      "Name": "BasedOn__r",
       "ReferencedObject": "ProductClassification",
       "ReferencedFields": {
         "GearsetExternalId__c": ""
