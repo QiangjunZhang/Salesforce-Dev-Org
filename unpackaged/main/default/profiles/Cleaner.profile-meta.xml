@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <custom>true</custom>
+    <userLicense>Salesforce</userLicense>
     <applicationVisibilities>
         <application>standard__AllTabSet</application>
         <default>false</default>
@@ -104,7 +107,6 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
-    <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.AccountNumber</field>
@@ -1021,7 +1023,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>ContactPointEmail.IsPrimary</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -4596,7 +4598,6 @@
         <tab>standard-report</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
-    <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
         <name>ActivitiesAccess</name>
@@ -4774,7 +4775,7 @@
         <name>ViewSetup</name>
     </userPermissions>
     <classAccesses>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <apexClass>ChangePasswordController</apexClass>
     </classAccesses>
 </Profile>
