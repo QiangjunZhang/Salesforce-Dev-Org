@@ -1,0 +1,23 @@
+{
+  "Object": "ProductCategoryProduct",
+  "Fields": {
+    "GearsetDisplayName": "Lucidchart - Productivity Software",
+    "GearsetExternalId__c": "AAG24r10000002dRZ0"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAAU2j87000002dt10"
+      }
+    },
+    {
+      "Name": "ProductCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAGxj920000002dGZ0"
+      }
+    }
+  ]
+}

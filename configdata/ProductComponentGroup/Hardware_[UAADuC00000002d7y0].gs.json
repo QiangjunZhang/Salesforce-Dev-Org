@@ -1,0 +1,29 @@
+{
+  "Object": "ProductComponentGroup",
+  "Fields": {
+    "Code": "",
+    "Description": "",
+    "GearsetDisplayName": "Hardware",
+    "GearsetExternalId__c": "UAADuC00000002d7y0",
+    "MaxBundleComponents": "",
+    "MinBundleComponents": "",
+    "Name": "Hardware",
+    "Sequence": ""
+  },
+  "References": [
+    {
+      "Name": "ParentGroup",
+      "ReferencedObject": "ProductComponentGroup",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAf2j87000002dt10"
+      }
+    }
+  ]
+}

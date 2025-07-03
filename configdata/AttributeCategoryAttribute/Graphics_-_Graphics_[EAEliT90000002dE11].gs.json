@@ -1,0 +1,23 @@
+{
+  "Object": "AttributeCategoryAttribute",
+  "Fields": {
+    "GearsetDisplayName": "Graphics - Graphics",
+    "GearsetExternalId__c": "EAEliT90000002dE11"
+  },
+  "References": [
+    {
+      "Name": "AttributeCategory",
+      "ReferencedObject": "AttributeCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAheK00000002d3v0"
+      }
+    },
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAlPW00000002djt0"
+      }
+    }
+  ]
+}

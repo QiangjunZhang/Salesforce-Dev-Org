@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "PP001",
+    "Description": "",
+    "GearsetDisplayName": "Paper",
+    "GearsetExternalId__c": "EAAfeK00000002d3v0",
+    "Name": "Paper"
+  },
+  "References": []
+}

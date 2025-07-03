@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "Handheld",
+    "Description": "",
+    "DeveloperName": "Scanner_Type",
+    "GearsetDisplayName": "Scanner Type",
+    "GearsetExternalId__c": "MAAtPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "Scanner Type",
+    "Name": "Scanner Type",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

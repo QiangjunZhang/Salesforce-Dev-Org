@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "GRA",
+    "Description": "",
+    "GearsetDisplayName": "Graphics",
+    "GearsetExternalId__c": "EAAheK00000002d3v0",
+    "Name": "Graphics"
+  },
+  "References": []
+}

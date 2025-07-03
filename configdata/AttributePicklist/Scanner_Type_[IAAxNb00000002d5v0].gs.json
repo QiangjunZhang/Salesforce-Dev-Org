@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "S0001",
+    "DataType": "Text",
+    "Description": "Scanner Type",
+    "GearsetDisplayName": "Scanner Type",
+    "GearsetExternalId__c": "IAAxNb00000002d5v0",
+    "Name": "Scanner Type",
+    "Status": "Active"
+  },
+  "References": []
+}

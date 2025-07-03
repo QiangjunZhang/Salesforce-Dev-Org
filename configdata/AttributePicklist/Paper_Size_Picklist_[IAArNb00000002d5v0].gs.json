@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "PSIZE001",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Paper Size Picklist",
+    "GearsetExternalId__c": "IAArNb00000002d5v0",
+    "Name": "Paper Size Picklist",
+    "Status": "Draft"
+  },
+  "References": []
+}

@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "R0001",
+    "DataType": "Text",
+    "Description": "Register Type",
+    "GearsetDisplayName": "Register Type",
+    "GearsetExternalId__c": "IAAwNb00000002d5v0",
+    "Name": "Register Type",
+    "Status": "Active"
+  },
+  "References": []
+}

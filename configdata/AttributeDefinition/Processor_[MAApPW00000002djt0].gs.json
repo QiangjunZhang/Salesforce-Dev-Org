@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Processor",
+    "GearsetDisplayName": "Processor",
+    "GearsetExternalId__c": "MAApPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "true",
+    "Label": "Processor",
+    "Name": "Processor",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

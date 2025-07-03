@@ -1,0 +1,23 @@
+{
+  "Object": "ProductCategoryProduct",
+  "Fields": {
+    "GearsetDisplayName": "Basic Training - Training",
+    "GearsetExternalId__c": "AAG54r10000002dRZ0"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAAX2j87000002dt10"
+      }
+    },
+    {
+      "Name": "ProductCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAG3k920000002dGZ0"
+      }
+    }
+  ]
+}

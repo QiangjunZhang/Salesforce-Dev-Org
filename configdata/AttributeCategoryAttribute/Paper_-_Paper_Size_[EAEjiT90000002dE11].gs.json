@@ -1,0 +1,23 @@
+{
+  "Object": "AttributeCategoryAttribute",
+  "Fields": {
+    "GearsetDisplayName": "Paper - Paper Size",
+    "GearsetExternalId__c": "EAEjiT90000002dE11"
+  },
+  "References": [
+    {
+      "Name": "AttributeCategory",
+      "ReferencedObject": "AttributeCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAfeK00000002d3v0"
+      }
+    },
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAnPW00000002djt0"
+      }
+    }
+  ]
+}

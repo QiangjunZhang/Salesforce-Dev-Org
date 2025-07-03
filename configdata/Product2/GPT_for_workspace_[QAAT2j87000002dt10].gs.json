@@ -1,0 +1,53 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "AvailabilityDate": "",
+    "ConfigureDuringSale": "Allowed",
+    "DecompositionScope": "",
+    "Description": "Use ChatGPT in Google Workspace. Boost your productivity with Gemini and ChatGPT directly inside your Google Docs, Sheets, Slides, Drive, and Gmail",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "https://media.istockphoto.com/id/1483272785/photo/artificial-intelligence-touch-screen.jpg?s=2048x2048&w=is&k=20&c=jqKHC0dVaAolw-c6mEpAdPoAohT8DkLKNarfyNio84k=",
+    "EndOfLifeDate": "",
+    "ExternalId": "",
+    "Family": "Software",
+    "FulfillmentQtyCalcMethod": "",
+    "GearsetDisplayName": "GPT for workspace",
+    "GearsetExternalId__c": "QAAT2j87000002dt10",
+    "HelpText": "",
+    "IsActive": "true",
+    "IsAssetizable": "true",
+    "IsSerialized": "false",
+    "IsSoldOnlyWithOtherProds": "false",
+    "Name": "GPT for workspace",
+    "ProductCode": "GPTW001",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "GPTW001",
+    "TransferRecordMode": "",
+    "Type": "",
+    "UsageModelType": ""
+  },
+  "References": [
+    {
+      "Name": "BasedOn",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "RecordTypeId",
+      "ReferencedObject": "RecordType",
+      "ReferencedFields": {
+        "Name": "Commercial",
+        "SobjectType": "Product2"
+      }
+    },
+    {
+      "Name": "SourceProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

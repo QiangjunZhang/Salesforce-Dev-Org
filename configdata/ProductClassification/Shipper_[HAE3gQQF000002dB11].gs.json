@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "SHIPR",
+    "GearsetDisplayName": "Shipper",
+    "GearsetExternalId__c": "HAE3gQQF000002dB11",
+    "Name": "Shipper",
+    "Status": "Active"
+  },
+  "References": []
+}

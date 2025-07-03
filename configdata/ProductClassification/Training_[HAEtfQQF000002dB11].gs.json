@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "TL001",
+    "GearsetDisplayName": "Training",
+    "GearsetExternalId__c": "HAEtfQQF000002dB11",
+    "Name": "Training",
+    "Status": "Active"
+  },
+  "References": []
+}

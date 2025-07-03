@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "SP001",
+    "Description": "",
+    "GearsetDisplayName": "Support",
+    "GearsetExternalId__c": "EAAjeK00000002d3v0",
+    "Name": "Support"
+  },
+  "References": []
+}

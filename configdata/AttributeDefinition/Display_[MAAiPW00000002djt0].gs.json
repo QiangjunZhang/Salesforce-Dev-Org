@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Display",
+    "GearsetDisplayName": "Display",
+    "GearsetExternalId__c": "MAAiPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "true",
+    "Label": "Display",
+    "Name": "Display",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

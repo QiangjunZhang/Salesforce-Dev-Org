@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "4k Built-in Display",
+    "DisplayValue": "4k Built-in Display",
+    "GearsetDisplayName": "4k Built-in Display",
+    "GearsetExternalId__c": "MAAsHY00000002d6v0",
+    "IsDefault": "false",
+    "Name": "4k Built-in Display",
+    "Sequence": "3.0",
+    "Status": "Draft",
+    "Value": "4k Built-in Display"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAmNb00000002d5v0"
+      }
+    }
+  ]
+}

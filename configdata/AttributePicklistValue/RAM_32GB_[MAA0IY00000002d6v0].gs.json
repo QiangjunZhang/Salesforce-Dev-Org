@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "RAM 32GB",
+    "DisplayValue": "RAM 32GB",
+    "GearsetDisplayName": "RAM 32GB",
+    "GearsetExternalId__c": "MAA0IY00000002d6v0",
+    "IsDefault": "true",
+    "Name": "RAM 32GB",
+    "Sequence": "3.0",
+    "Status": "Draft",
+    "Value": "RAM 32GB"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAqNb00000002d5v0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Object": "AttributeCategoryAttribute",
+  "Fields": {
+    "GearsetDisplayName": "Memory - Memory",
+    "GearsetExternalId__c": "EAEoiT90000002dE11"
+  },
+  "References": [
+    {
+      "Name": "AttributeCategory",
+      "ReferencedObject": "AttributeCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAkeK00000002d3v0"
+      }
+    },
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAmPW00000002djt0"
+      }
+    }
+  ]
+}

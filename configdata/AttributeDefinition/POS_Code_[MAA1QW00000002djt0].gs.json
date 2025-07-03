@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Text",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "POS_Code",
+    "GearsetDisplayName": "POS Code",
+    "GearsetExternalId__c": "MAA1QW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "POS Code",
+    "Name": "POS Code",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

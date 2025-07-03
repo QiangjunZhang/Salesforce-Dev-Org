@@ -1,0 +1,10 @@
+{
+  "Object": "ProductRelationshipType",
+  "Fields": {
+    "GearsetDisplayName": "Bundle to Bundle Component Relationship",
+    "GearsetExternalId__c": "QAATe730000002doy0",
+    "MainProductRoleCat": "Bundle",
+    "Name": "Bundle to Bundle Component Relationship"
+  },
+  "References": []
+}

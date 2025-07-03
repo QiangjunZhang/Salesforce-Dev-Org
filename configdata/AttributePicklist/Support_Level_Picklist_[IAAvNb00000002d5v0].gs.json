@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "SP001",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Support Level Picklist",
+    "GearsetExternalId__c": "IAAvNb00000002d5v0",
+    "Name": "Support Level Picklist",
+    "Status": "Draft"
+  },
+  "References": []
+}

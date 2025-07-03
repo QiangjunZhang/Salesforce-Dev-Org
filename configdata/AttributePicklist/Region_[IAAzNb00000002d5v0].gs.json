@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "RG0001",
+    "DataType": "Text",
+    "Description": "Region",
+    "GearsetDisplayName": "Region",
+    "GearsetExternalId__c": "IAAzNb00000002d5v0",
+    "Name": "Region",
+    "Status": "Active"
+  },
+  "References": []
+}

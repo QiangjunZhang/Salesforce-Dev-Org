@@ -1,0 +1,23 @@
+{
+  "Object": "AttributeCategoryAttribute",
+  "Fields": {
+    "GearsetDisplayName": "Storage - Storage",
+    "GearsetExternalId__c": "EAEsiT90000002dE11"
+  },
+  "References": [
+    {
+      "Name": "AttributeCategory",
+      "ReferencedObject": "AttributeCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAneK00000002d3v0"
+      }
+    },
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAqPW00000002djt0"
+      }
+    }
+  ]
+}

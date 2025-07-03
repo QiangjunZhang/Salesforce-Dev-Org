@@ -1,0 +1,53 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "AvailabilityDate": "",
+    "ConfigureDuringSale": "Allowed",
+    "DecompositionScope": "",
+    "Description": "",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "",
+    "EndOfLifeDate": "",
+    "ExternalId": "",
+    "Family": "",
+    "FulfillmentQtyCalcMethod": "",
+    "GearsetDisplayName": "Retail POS Enterprise",
+    "GearsetExternalId__c": "AAAf2j87000002dt10",
+    "HelpText": "",
+    "IsActive": "true",
+    "IsAssetizable": "true",
+    "IsSerialized": "false",
+    "IsSoldOnlyWithOtherProds": "false",
+    "Name": "Retail POS Enterprise",
+    "ProductCode": "ENPOS101",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "TransferRecordMode": "",
+    "Type": "Bundle",
+    "UsageModelType": ""
+  },
+  "References": [
+    {
+      "Name": "BasedOn",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "HAE6gQQF000002dB11"
+      }
+    },
+    {
+      "Name": "RecordTypeId",
+      "ReferencedObject": "RecordType",
+      "ReferencedFields": {
+        "Name": "Commercial",
+        "SobjectType": "Product2"
+      }
+    },
+    {
+      "Name": "SourceProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

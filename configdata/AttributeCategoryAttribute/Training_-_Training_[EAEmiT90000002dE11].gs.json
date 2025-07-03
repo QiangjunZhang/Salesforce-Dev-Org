@@ -1,0 +1,23 @@
+{
+  "Object": "AttributeCategoryAttribute",
+  "Fields": {
+    "GearsetDisplayName": "Training - Training",
+    "GearsetExternalId__c": "EAEmiT90000002dE11"
+  },
+  "References": [
+    {
+      "Name": "AttributeCategory",
+      "ReferencedObject": "AttributeCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAieK00000002d3v0"
+      }
+    },
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAjPW00000002djt0"
+      }
+    }
+  ]
+}

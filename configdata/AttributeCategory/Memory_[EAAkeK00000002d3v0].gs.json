@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "MEM",
+    "Description": "",
+    "GearsetDisplayName": "Memory",
+    "GearsetExternalId__c": "EAAkeK00000002d3v0",
+    "Name": "Memory"
+  },
+  "References": []
+}

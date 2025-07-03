@@ -1,0 +1,53 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "AvailabilityDate": "",
+    "ConfigureDuringSale": "Allowed",
+    "DecompositionScope": "",
+    "Description": "",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "https://media.istockphoto.com/id/1076326738/photo/digital-marketing-via-multichannel-communication-network-icon-on-mobile-smartphone.jpg?s=1024x1024&w=is&k=20&c=O6oKcTxgLV8wmUCkDEm22Et-nYRb8Ule6QDwEsNyFcI=",
+    "EndOfLifeDate": "",
+    "ExternalId": "",
+    "Family": "",
+    "FulfillmentQtyCalcMethod": "",
+    "GearsetDisplayName": "API Access Premium",
+    "GearsetExternalId__c": "AAAh2j87000002dt10",
+    "HelpText": "",
+    "IsActive": "true",
+    "IsAssetizable": "true",
+    "IsSerialized": "false",
+    "IsSoldOnlyWithOtherProds": "false",
+    "Name": "API Access Premium",
+    "ProductCode": "CLOUD00910",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "TransferRecordMode": "",
+    "Type": "",
+    "UsageModelType": "Anchor"
+  },
+  "References": [
+    {
+      "Name": "BasedOn",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "RecordTypeId",
+      "ReferencedObject": "RecordType",
+      "ReferencedFields": {
+        "Name": "Commercial",
+        "SobjectType": "Product2"
+      }
+    },
+    {
+      "Name": "SourceProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Object": "ProductComponentGroup",
+  "Fields": {
+    "Code": "CS001011",
+    "Description": "",
+    "GearsetDisplayName": "AI Certifications",
+    "GearsetExternalId__c": "EAA2uC00000002d7y0",
+    "MaxBundleComponents": "",
+    "MinBundleComponents": "",
+    "Name": "AI Certifications",
+    "Sequence": "1"
+  },
+  "References": [
+    {
+      "Name": "ParentGroup",
+      "ReferencedObject": "ProductComponentGroup",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAA1uC00000002d7y0"
+      }
+    },
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAj2j87000002dt10"
+      }
+    }
+  ]
+}

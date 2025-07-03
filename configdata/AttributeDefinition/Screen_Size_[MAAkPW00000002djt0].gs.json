@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Screen_Size",
+    "GearsetDisplayName": "Screen Size",
+    "GearsetExternalId__c": "MAAkPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "true",
+    "Label": "Screen Size",
+    "Name": "Screen Size",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "SFT001",
+    "GearsetDisplayName": "Software",
+    "GearsetExternalId__c": "HAEpfQQF000002dB11",
+    "Name": "Software",
+    "Status": "Active"
+  },
+  "References": []
+}

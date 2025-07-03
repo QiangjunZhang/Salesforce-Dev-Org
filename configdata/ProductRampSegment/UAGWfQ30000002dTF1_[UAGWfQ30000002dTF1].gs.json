@@ -1,0 +1,26 @@
+{
+  "Object": "ProductRampSegment",
+  "Fields": {
+    "DurationType": "Days",
+    "GearsetDisplayName": "UAGWfQ30000002dTF1",
+    "GearsetExternalId__c": "UAGWfQ30000002dTF1",
+    "SegmentType": "FreeTrial",
+    "TrialDuration": "45"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAg2j87000002dt10"
+      }
+    },
+    {
+      "Name": "ProductSellingModel",
+      "ReferencedObject": "ProductSellingModel",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "UAEL6N00000002dPj0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "i5-CPU 4.4GHz",
+    "DisplayValue": "i5-CPU 4.4GHz",
+    "GearsetDisplayName": "i5-CPU 4.4GHz",
+    "GearsetExternalId__c": "2AAAIY00000002d6v0",
+    "IsDefault": "true",
+    "Name": "i5-CPU 4.4GHz",
+    "Sequence": "1.0",
+    "Status": "Draft",
+    "Value": "i5-CPU 4.4GHz"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAtNb00000002d5v0"
+      }
+    }
+  ]
+}

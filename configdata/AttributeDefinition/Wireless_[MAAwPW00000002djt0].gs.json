@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Checkbox",
+    "DefaultHelpText": "",
+    "DefaultValue": "FALSE",
+    "Description": "",
+    "DeveloperName": "Wireless",
+    "GearsetDisplayName": "Wireless",
+    "GearsetExternalId__c": "MAAwPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "Wireless",
+    "Name": "Wireless",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

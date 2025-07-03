@@ -1,0 +1,34 @@
+{
+  "Object": "ProductDisqualification",
+  "Fields": {
+    "EffectiveFromDate": "2024-08-01",
+    "EffectiveToDate": "2026-11-01",
+    "GearsetDisplayName": "2AEPWI00000002dM31",
+    "GearsetExternalId__c": "2AEPWI00000002dM31",
+    "Industry__c": "Recreation",
+    "Reason": ""
+  },
+  "References": [
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAAO2j87000002dt10"
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAe2j87000002dt10"
+      }
+    },
+    {
+      "Name": "RootProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAAO2j87000002dt10"
+      }
+    }
+  ]
+}

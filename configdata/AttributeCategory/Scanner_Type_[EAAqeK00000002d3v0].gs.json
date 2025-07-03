@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "SCNTYP",
+    "Description": "",
+    "GearsetDisplayName": "Scanner Type",
+    "GearsetExternalId__c": "EAAqeK00000002d3v0",
+    "Name": "Scanner Type"
+  },
+  "References": []
+}

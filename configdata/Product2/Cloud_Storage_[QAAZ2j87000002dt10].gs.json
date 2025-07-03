@@ -1,0 +1,53 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "AvailabilityDate": "",
+    "ConfigureDuringSale": "Allowed",
+    "DecompositionScope": "",
+    "Description": "Cloud computing model that enables storing data and files on the internet through a cloud computing",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "https://plus.unsplash.com/premium_photo-1683288706548-e8b6bb72fe86?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "EndOfLifeDate": "",
+    "ExternalId": "",
+    "Family": "Service",
+    "FulfillmentQtyCalcMethod": "",
+    "GearsetDisplayName": "Cloud Storage",
+    "GearsetExternalId__c": "QAAZ2j87000002dt10",
+    "HelpText": "",
+    "IsActive": "true",
+    "IsAssetizable": "true",
+    "IsSerialized": "false",
+    "IsSoldOnlyWithOtherProds": "false",
+    "Name": "Cloud Storage",
+    "ProductCode": "CS001",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "TransferRecordMode": "",
+    "Type": "",
+    "UsageModelType": ""
+  },
+  "References": [
+    {
+      "Name": "BasedOn",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "HAEwfQQF000002dB11"
+      }
+    },
+    {
+      "Name": "RecordTypeId",
+      "ReferencedObject": "RecordType",
+      "ReferencedFields": {
+        "Name": "Commercial",
+        "SobjectType": "Product2"
+      }
+    },
+    {
+      "Name": "SourceProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

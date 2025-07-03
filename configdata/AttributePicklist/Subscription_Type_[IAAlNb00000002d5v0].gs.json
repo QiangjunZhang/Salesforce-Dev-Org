@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "STPICK002",
+    "DataType": "Text",
+    "Description": "Subscription Type",
+    "GearsetDisplayName": "Subscription Type",
+    "GearsetExternalId__c": "IAAlNb00000002d5v0",
+    "Name": "Subscription Type",
+    "Status": "Active"
+  },
+  "References": []
+}

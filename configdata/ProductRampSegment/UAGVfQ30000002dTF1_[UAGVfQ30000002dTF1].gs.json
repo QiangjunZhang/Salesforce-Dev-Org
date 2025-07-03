@@ -1,0 +1,26 @@
+{
+  "Object": "ProductRampSegment",
+  "Fields": {
+    "DurationType": "",
+    "GearsetDisplayName": "UAGVfQ30000002dTF1",
+    "GearsetExternalId__c": "UAGVfQ30000002dTF1",
+    "SegmentType": "Yearly",
+    "TrialDuration": ""
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAg2j87000002dt10"
+      }
+    },
+    {
+      "Name": "ProductSellingModel",
+      "ReferencedObject": "ProductSellingModel",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "UAEL6N00000002dPj0"
+      }
+    }
+  ]
+}

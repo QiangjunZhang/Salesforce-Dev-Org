@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "Multichannel POS",
+    "DisplayValue": "Multichannel POS",
+    "GearsetDisplayName": "Multichannel POS",
+    "GearsetExternalId__c": "2AARIY00000002d6v0",
+    "IsDefault": "true",
+    "Name": "Multichannel POS",
+    "Sequence": "5.0",
+    "Status": "Active",
+    "Value": "Multichannel POS"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAyNb00000002d5v0"
+      }
+    }
+  ]
+}

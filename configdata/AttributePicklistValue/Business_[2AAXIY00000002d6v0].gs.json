@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "BUS001",
+    "DisplayValue": "Business",
+    "GearsetDisplayName": "Business",
+    "GearsetExternalId__c": "2AAXIY00000002d6v0",
+    "IsDefault": "true",
+    "Name": "Business",
+    "Sequence": "2.0",
+    "Status": "Active",
+    "Value": "Business"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAlNb00000002d5v0"
+      }
+    }
+  ]
+}

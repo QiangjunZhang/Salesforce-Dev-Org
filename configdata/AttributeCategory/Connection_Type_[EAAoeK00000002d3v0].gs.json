@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "CT001",
+    "Description": "",
+    "GearsetDisplayName": "Connection Type",
+    "GearsetExternalId__c": "EAAoeK00000002d3v0",
+    "Name": "Connection Type"
+  },
+  "References": []
+}

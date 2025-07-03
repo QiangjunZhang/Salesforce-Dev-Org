@@ -1,0 +1,53 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "AvailabilityDate": "",
+    "ConfigureDuringSale": "Allowed",
+    "DecompositionScope": "Account",
+    "Description": "",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "",
+    "EndOfLifeDate": "",
+    "ExternalId": "",
+    "Family": "",
+    "FulfillmentQtyCalcMethod": "",
+    "GearsetDisplayName": "Billing Service",
+    "GearsetExternalId__c": "AAA23j87000002dt10",
+    "HelpText": "",
+    "IsActive": "true",
+    "IsAssetizable": "true",
+    "IsSerialized": "false",
+    "IsSoldOnlyWithOtherProds": "false",
+    "Name": "Billing Service",
+    "ProductCode": "",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "TransferRecordMode": "",
+    "Type": "",
+    "UsageModelType": ""
+  },
+  "References": [
+    {
+      "Name": "BasedOn",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "RecordTypeId",
+      "ReferencedObject": "RecordType",
+      "ReferencedFields": {
+        "Name": "Technical",
+        "SobjectType": "Product2"
+      }
+    },
+    {
+      "Name": "SourceProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

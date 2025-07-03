@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "Stationary",
+    "DisplayValue": "Stationary",
+    "GearsetDisplayName": "Stationary",
+    "GearsetExternalId__c": "2AAJIY00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Stationary",
+    "Sequence": "2.0",
+    "Status": "Active",
+    "Value": "Stationary"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAxNb00000002d5v0"
+      }
+    }
+  ]
+}

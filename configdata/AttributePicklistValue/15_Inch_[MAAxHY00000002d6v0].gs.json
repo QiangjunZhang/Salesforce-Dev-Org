@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "15IN",
+    "DisplayValue": "15 Inch",
+    "GearsetDisplayName": "15 Inch",
+    "GearsetExternalId__c": "MAAxHY00000002d6v0",
+    "IsDefault": "false",
+    "Name": "15 Inch",
+    "Sequence": "2.0",
+    "Status": "Draft",
+    "Value": "15 Inch"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAoNb00000002d5v0"
+      }
+    }
+  ]
+}

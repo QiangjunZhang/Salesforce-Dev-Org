@@ -1,0 +1,53 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "AvailabilityDate": "",
+    "ConfigureDuringSale": "Allowed",
+    "DecompositionScope": "",
+    "Description": "Quickbooks Online product for SMB businesses.",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "https://media.istockphoto.com/id/497573700/photo/businessman-builds-a-tower.jpg?s=1024x1024&w=is&k=20&c=ZQHmgH28-Yu4PdOfTIxGfzMfbfQCmIfpUkPt3IAEz6I=",
+    "EndOfLifeDate": "",
+    "ExternalId": "",
+    "Family": "",
+    "FulfillmentQtyCalcMethod": "",
+    "GearsetDisplayName": "Quickbooks Online",
+    "GearsetExternalId__c": "AAAg2j87000002dt10",
+    "HelpText": "",
+    "IsActive": "true",
+    "IsAssetizable": "true",
+    "IsSerialized": "false",
+    "IsSoldOnlyWithOtherProds": "false",
+    "Name": "Quickbooks Online",
+    "ProductCode": "QBO0021",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "TransferRecordMode": "",
+    "Type": "",
+    "UsageModelType": ""
+  },
+  "References": [
+    {
+      "Name": "BasedOn",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "HAEpfQQF000002dB11"
+      }
+    },
+    {
+      "Name": "RecordTypeId",
+      "ReferencedObject": "RecordType",
+      "ReferencedFields": {
+        "Name": "Commercial",
+        "SobjectType": "Product2"
+      }
+    },
+    {
+      "Name": "SourceProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

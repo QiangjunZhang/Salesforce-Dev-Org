@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "SSD Hard Drive 256GB",
+    "DisplayValue": "SSD Hard Drive 256GB",
+    "GearsetDisplayName": "SSD Hard Drive 256GB",
+    "GearsetExternalId__c": "2AADIY00000002d6v0",
+    "IsDefault": "false",
+    "Name": "SSD Hard Drive 256GB",
+    "Sequence": "1.0",
+    "Status": "Draft",
+    "Value": "SSD Hard Drive 256GB"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAuNb00000002d5v0"
+      }
+    }
+  ]
+}

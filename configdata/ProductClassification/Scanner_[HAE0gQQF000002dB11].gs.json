@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "SCNR",
+    "GearsetDisplayName": "Scanner",
+    "GearsetExternalId__c": "HAE0gQQF000002dB11",
+    "Name": "Scanner",
+    "Status": "Active"
+  },
+  "References": []
+}

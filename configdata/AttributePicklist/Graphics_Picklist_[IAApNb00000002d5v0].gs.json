@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "GRA001",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Graphics Picklist",
+    "GearsetExternalId__c": "IAApNb00000002d5v0",
+    "Name": "Graphics Picklist",
+    "Status": "Draft"
+  },
+  "References": []
+}

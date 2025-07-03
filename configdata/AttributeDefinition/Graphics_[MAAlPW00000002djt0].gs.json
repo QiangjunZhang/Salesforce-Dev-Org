@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Graphics",
+    "GearsetDisplayName": "Graphics",
+    "GearsetExternalId__c": "MAAlPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "Graphics",
+    "Name": "Graphics",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

@@ -1,0 +1,53 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "AvailabilityDate": "",
+    "ConfigureDuringSale": "Allowed",
+    "DecompositionScope": "",
+    "Description": "Grow your business with Workspace",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5oXTveyqZKfIS2ne-bQSbONwoNOYcOqNThg&s",
+    "EndOfLifeDate": "",
+    "ExternalId": "",
+    "Family": "Software",
+    "FulfillmentQtyCalcMethod": "",
+    "GearsetDisplayName": "Google Workspace",
+    "GearsetExternalId__c": "QAAS2j87000002dt10",
+    "HelpText": "",
+    "IsActive": "true",
+    "IsAssetizable": "true",
+    "IsSerialized": "false",
+    "IsSoldOnlyWithOtherProds": "false",
+    "Name": "Google Workspace",
+    "ProductCode": "GW001",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "GW001",
+    "TransferRecordMode": "",
+    "Type": "",
+    "UsageModelType": ""
+  },
+  "References": [
+    {
+      "Name": "BasedOn",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "RecordTypeId",
+      "ReferencedObject": "RecordType",
+      "ReferencedFields": {
+        "Name": "Commercial",
+        "SobjectType": "Product2"
+      }
+    },
+    {
+      "Name": "SourceProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

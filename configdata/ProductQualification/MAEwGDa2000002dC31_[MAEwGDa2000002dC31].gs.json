@@ -1,0 +1,34 @@
+{
+  "Object": "ProductQualification",
+  "Fields": {
+    "EffectiveFromDate": "2024-08-01",
+    "EffectiveToDate": "2026-11-01",
+    "GearsetDisplayName": "MAEwGDa2000002dC31",
+    "GearsetExternalId__c": "MAEwGDa2000002dC31",
+    "MaxNumberOfEmployees__c": "100.0",
+    "MinNumberOfEmployees__c": "1000.0"
+  },
+  "References": [
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAy2j87000002dt10"
+      }
+    },
+    {
+      "Name": "RootProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

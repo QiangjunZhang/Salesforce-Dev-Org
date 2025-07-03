@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "P001",
+    "Description": "",
+    "GearsetDisplayName": "Printer",
+    "GearsetExternalId__c": "EAAgeK00000002d3v0",
+    "Name": "Printer"
+  },
+  "References": []
+}

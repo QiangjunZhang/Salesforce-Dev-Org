@@ -1,0 +1,53 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "AvailabilityDate": "",
+    "ConfigureDuringSale": "Allowed",
+    "DecompositionScope": "",
+    "Description": "",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDKganIBAKYF78LGme-XcgnxVwUuZFF39n9w&usqp=CAU",
+    "EndOfLifeDate": "",
+    "ExternalId": "",
+    "Family": "Service",
+    "FulfillmentQtyCalcMethod": "",
+    "GearsetDisplayName": "Laptop Care Package",
+    "GearsetExternalId__c": "AAAy2j87000002dt10",
+    "HelpText": "",
+    "IsActive": "true",
+    "IsAssetizable": "true",
+    "IsSerialized": "false",
+    "IsSoldOnlyWithOtherProds": "false",
+    "Name": "Laptop Care Package",
+    "ProductCode": "LCP001",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "TransferRecordMode": "",
+    "Type": "Bundle",
+    "UsageModelType": ""
+  },
+  "References": [
+    {
+      "Name": "BasedOn",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "RecordTypeId",
+      "ReferencedObject": "RecordType",
+      "ReferencedFields": {
+        "Name": "Commercial",
+        "SobjectType": "Product2"
+      }
+    },
+    {
+      "Name": "SourceProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

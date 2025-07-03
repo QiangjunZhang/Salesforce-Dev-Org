@@ -1,0 +1,23 @@
+{
+  "Object": "ProductCategoryProduct",
+  "Fields": {
+    "GearsetDisplayName": "Printer Paper - Accessories",
+    "GearsetExternalId__c": "QAGC4r10000002dRZ0"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAe2j87000002dt10"
+      }
+    },
+    {
+      "Name": "ProductCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAG1k920000002dGZ0"
+      }
+    }
+  ]
+}

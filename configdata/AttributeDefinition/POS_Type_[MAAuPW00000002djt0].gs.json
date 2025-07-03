@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "Multichannel POS",
+    "Description": "",
+    "DeveloperName": "POS_Type",
+    "GearsetDisplayName": "POS Type",
+    "GearsetExternalId__c": "MAAuPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "POS Type",
+    "Name": "POS Type",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "Cash & Card",
+    "Description": "",
+    "DeveloperName": "Register_Type",
+    "GearsetDisplayName": "Register Type",
+    "GearsetExternalId__c": "MAAsPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "true",
+    "Label": "Type",
+    "Name": "Register Type",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

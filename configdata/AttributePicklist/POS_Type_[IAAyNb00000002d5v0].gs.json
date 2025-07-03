@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "POS0001",
+    "DataType": "Text",
+    "Description": "POS Type",
+    "GearsetDisplayName": "POS Type",
+    "GearsetExternalId__c": "IAAyNb00000002d5v0",
+    "Name": "POS Type",
+    "Status": "Active"
+  },
+  "References": []
+}

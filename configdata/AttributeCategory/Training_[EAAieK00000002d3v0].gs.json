@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "T001",
+    "Description": "",
+    "GearsetDisplayName": "Training",
+    "GearsetExternalId__c": "EAAieK00000002d3v0",
+    "Name": "Training"
+  },
+  "References": []
+}

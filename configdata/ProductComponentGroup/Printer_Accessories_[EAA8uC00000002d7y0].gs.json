@@ -1,0 +1,29 @@
+{
+  "Object": "ProductComponentGroup",
+  "Fields": {
+    "Code": "",
+    "Description": "",
+    "GearsetDisplayName": "Printer Accessories",
+    "GearsetExternalId__c": "EAA8uC00000002d7y0",
+    "MaxBundleComponents": "",
+    "MinBundleComponents": "",
+    "Name": "Printer Accessories",
+    "Sequence": "2"
+  },
+  "References": [
+    {
+      "Name": "ParentGroup",
+      "ReferencedObject": "ProductComponentGroup",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAAO2j87000002dt10"
+      }
+    }
+  ]
+}

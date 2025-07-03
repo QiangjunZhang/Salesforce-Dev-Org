@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "DIS",
+    "Description": "",
+    "GearsetDisplayName": "Display",
+    "GearsetExternalId__c": "EAAmeK00000002d3v0",
+    "Name": "Display"
+  },
+  "References": []
+}

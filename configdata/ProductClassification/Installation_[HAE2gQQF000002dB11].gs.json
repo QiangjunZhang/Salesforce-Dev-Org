@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "INSTL",
+    "GearsetDisplayName": "Installation",
+    "GearsetExternalId__c": "HAE2gQQF000002dB11",
+    "Name": "Installation",
+    "Status": "Active"
+  },
+  "References": []
+}

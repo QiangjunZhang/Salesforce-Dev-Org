@@ -1,0 +1,28 @@
+{
+  "Object": "ProductCategory",
+  "Fields": {
+    "Code": "",
+    "Description": "",
+    "GearsetDisplayName": "Protection Software",
+    "GearsetExternalId__c": "AAGyj920000002dGZ0",
+    "IsNavigational": "true",
+    "Name": "Protection Software",
+    "SortOrder": ""
+  },
+  "References": [
+    {
+      "Name": "Catalog",
+      "ReferencedObject": "ProductCatalog",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAGBrs10000002dSZ0"
+      }
+    },
+    {
+      "Name": "ParentCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

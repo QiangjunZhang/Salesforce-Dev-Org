@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "PR001",
+    "GearsetDisplayName": "Printer",
+    "GearsetExternalId__c": "HAErfQQF000002dB11",
+    "Name": "Printer",
+    "Status": "Active"
+  },
+  "References": []
+}

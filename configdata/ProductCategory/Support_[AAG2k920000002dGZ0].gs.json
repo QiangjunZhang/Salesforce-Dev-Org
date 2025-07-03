@@ -1,0 +1,28 @@
+{
+  "Object": "ProductCategory",
+  "Fields": {
+    "Code": "",
+    "Description": "",
+    "GearsetDisplayName": "Support",
+    "GearsetExternalId__c": "AAG2k920000002dGZ0",
+    "IsNavigational": "true",
+    "Name": "Support",
+    "SortOrder": ""
+  },
+  "References": [
+    {
+      "Name": "Catalog",
+      "ReferencedObject": "ProductCatalog",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAGDrs10000002dSZ0"
+      }
+    },
+    {
+      "Name": "ParentCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

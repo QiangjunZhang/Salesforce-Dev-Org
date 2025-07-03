@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "Cash & Card",
+    "DisplayValue": "Cash & Card",
+    "GearsetDisplayName": "Cash & Card",
+    "GearsetExternalId__c": "2AAKIY00000002d6v0",
+    "IsDefault": "true",
+    "Name": "Cash & Card",
+    "Sequence": "1.0",
+    "Status": "Active",
+    "Value": "Cash & Card"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAwNb00000002d5v0"
+      }
+    }
+  ]
+}

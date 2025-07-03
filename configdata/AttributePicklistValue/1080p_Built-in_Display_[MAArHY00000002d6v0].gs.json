@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "1080p Built-in Display",
+    "DisplayValue": "1080p Built-in Display",
+    "GearsetDisplayName": "1080p Built-in Display",
+    "GearsetExternalId__c": "MAArHY00000002d6v0",
+    "IsDefault": "true",
+    "Name": "1080p Built-in Display",
+    "Sequence": "1.0",
+    "Status": "Draft",
+    "Value": "1080p Built-in Display"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAmNb00000002d5v0"
+      }
+    }
+  ]
+}

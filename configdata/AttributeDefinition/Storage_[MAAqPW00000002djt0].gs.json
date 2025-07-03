@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Storage",
+    "GearsetDisplayName": "Storage",
+    "GearsetExternalId__c": "MAAqPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "true",
+    "Label": "Storage",
+    "Name": "Storage",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

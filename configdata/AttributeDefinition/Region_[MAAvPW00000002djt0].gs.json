@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "South",
+    "Description": "",
+    "DeveloperName": "Region",
+    "GearsetDisplayName": "Region",
+    "GearsetExternalId__c": "MAAvPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "Region",
+    "Name": "Region",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

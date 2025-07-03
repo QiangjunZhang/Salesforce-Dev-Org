@@ -1,0 +1,23 @@
+{
+  "Object": "ProductCategoryProduct",
+  "Fields": {
+    "GearsetDisplayName": "Cloud Storage - Cloud Services",
+    "GearsetExternalId__c": "AAG74r10000002dRZ0"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAAZ2j87000002dt10"
+      }
+    },
+    {
+      "Name": "ProductCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAG5k920000002dGZ0"
+      }
+    }
+  ]
+}

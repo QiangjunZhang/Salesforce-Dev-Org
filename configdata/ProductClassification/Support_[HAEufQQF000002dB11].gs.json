@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "SL001",
+    "GearsetDisplayName": "Support",
+    "GearsetExternalId__c": "HAEufQQF000002dB11",
+    "Name": "Support",
+    "Status": "Active"
+  },
+  "References": []
+}

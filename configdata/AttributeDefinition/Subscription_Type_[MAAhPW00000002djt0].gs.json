@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "SUBTYPE001",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "Business",
+    "Description": "Subscription Type - either Enterprise or Business",
+    "DeveloperName": "SubscriptionType",
+    "GearsetDisplayName": "Subscription Type",
+    "GearsetExternalId__c": "MAAhPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "true",
+    "Label": "Subscription Type",
+    "Name": "Subscription Type",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

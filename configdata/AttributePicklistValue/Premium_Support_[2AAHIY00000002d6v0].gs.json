@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "Premium Support",
+    "DisplayValue": "Premium Support",
+    "GearsetDisplayName": "Premium Support",
+    "GearsetExternalId__c": "2AAHIY00000002d6v0",
+    "IsDefault": "true",
+    "Name": "Premium Support",
+    "Sequence": "1.0",
+    "Status": "Draft",
+    "Value": "Premium Support"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAvNb00000002d5v0"
+      }
+    }
+  ]
+}

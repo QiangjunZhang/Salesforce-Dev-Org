@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "2k Built-in Display",
+    "DisplayValue": "2k Built-in Display",
+    "GearsetDisplayName": "2k Built-in Display",
+    "GearsetExternalId__c": "MAAqHY00000002d6v0",
+    "IsDefault": "false",
+    "Name": "2k Built-in Display",
+    "Sequence": "2.0",
+    "Status": "Draft",
+    "Value": "2k Built-in Display"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAmNb00000002d5v0"
+      }
+    }
+  ]
+}

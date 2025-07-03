@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "PRI001",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Printer Picklist",
+    "GearsetExternalId__c": "IAAsNb00000002d5v0",
+    "Name": "Printer Picklist",
+    "Status": "Draft"
+  },
+  "References": []
+}

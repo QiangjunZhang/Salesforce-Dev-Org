@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Text",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Scanner",
+    "GearsetDisplayName": "Scanner",
+    "GearsetExternalId__c": "MAAzPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "Scanner",
+    "Name": "Scanner",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

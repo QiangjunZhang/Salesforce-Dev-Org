@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "PRO001",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Processor Picklist",
+    "GearsetExternalId__c": "IAAtNb00000002d5v0",
+    "Name": "Processor Picklist",
+    "Status": "Draft"
+  },
+  "References": []
+}

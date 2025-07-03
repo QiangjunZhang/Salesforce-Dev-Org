@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "STO",
+    "Description": "",
+    "GearsetDisplayName": "Storage",
+    "GearsetExternalId__c": "EAAneK00000002d3v0",
+    "Name": "Storage"
+  },
+  "References": []
+}

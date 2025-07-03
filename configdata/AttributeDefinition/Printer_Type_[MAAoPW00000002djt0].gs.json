@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Printer_Type",
+    "GearsetDisplayName": "Printer Type",
+    "GearsetExternalId__c": "MAAoPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "Printer",
+    "Name": "Printer Type",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

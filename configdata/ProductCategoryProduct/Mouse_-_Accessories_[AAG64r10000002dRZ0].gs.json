@@ -1,0 +1,23 @@
+{
+  "Object": "ProductCategoryProduct",
+  "Fields": {
+    "GearsetDisplayName": "Mouse - Accessories",
+    "GearsetExternalId__c": "AAG64r10000002dRZ0"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAAY2j87000002dt10"
+      }
+    },
+    {
+      "Name": "ProductCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAG1k920000002dGZ0"
+      }
+    }
+  ]
+}

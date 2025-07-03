@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "27IN",
+    "DisplayValue": "27 Inch",
+    "GearsetDisplayName": "27 Inch",
+    "GearsetExternalId__c": "MAAuHY00000002d6v0",
+    "IsDefault": "false",
+    "Name": "27 Inch",
+    "Sequence": "4.0",
+    "Status": "Draft",
+    "Value": "27 Inch"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAoNb00000002d5v0"
+      }
+    }
+  ]
+}

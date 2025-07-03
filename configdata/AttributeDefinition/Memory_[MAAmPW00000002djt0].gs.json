@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Memory",
+    "GearsetDisplayName": "Memory",
+    "GearsetExternalId__c": "MAAmPW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "true",
+    "Label": "Memory",
+    "Name": "Memory",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

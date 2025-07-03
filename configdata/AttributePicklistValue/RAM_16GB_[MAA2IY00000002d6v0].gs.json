@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "RAM 16GB",
+    "DisplayValue": "RAM 16GB",
+    "GearsetDisplayName": "RAM 16GB",
+    "GearsetExternalId__c": "MAA2IY00000002d6v0",
+    "IsDefault": "false",
+    "Name": "RAM 16GB",
+    "Sequence": "2.0",
+    "Status": "Draft",
+    "Value": "RAM 16GB"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAqNb00000002d5v0"
+      }
+    }
+  ]
+}

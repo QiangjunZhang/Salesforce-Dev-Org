@@ -1,0 +1,40 @@
+{
+  "Object": "ProductRelatedComponent",
+  "Fields": {
+    "DoesBundlePriceIncludeChild": "false",
+    "GearsetDisplayName": "MAE4EX00000002dSd0",
+    "GearsetExternalId__c": "MAE4EX00000002dSd0",
+    "IsComponentRequired": "true",
+    "IsDefaultComponent": "true",
+    "IsQuantityEditable": "true",
+    "MaxQuantity": "100.0",
+    "MinQuantity": "1.0",
+    "Quantity": "1.0",
+    "QuantityScaleMethod": "",
+    "QuoteVisibility": "",
+    "Sequence": "3"
+  },
+  "References": [
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAf2j87000002dt10"
+      }
+    },
+    {
+      "Name": "ProductComponentGroup",
+      "ReferencedObject": "ProductComponentGroup",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "UAAEuC00000002d7y0"
+      }
+    },
+    {
+      "Name": "ProductRelationshipType",
+      "ReferencedObject": "ProductRelationshipType",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAATe730000002doy0"
+      }
+    }
+  ]
+}

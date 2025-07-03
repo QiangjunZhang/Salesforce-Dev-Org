@@ -1,0 +1,53 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "AvailabilityDate": "",
+    "ConfigureDuringSale": "NotAllowed",
+    "DecompositionScope": "",
+    "Description": "",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxjZ1g4DEG-O7e0e4NykbtJLxOUkwrcwBOhNU8MqWQQ&s",
+    "EndOfLifeDate": "",
+    "ExternalId": "",
+    "Family": "Miscellaneous",
+    "FulfillmentQtyCalcMethod": "",
+    "GearsetDisplayName": "Laptop Accessories",
+    "GearsetExternalId__c": "AAAm2j87000002dt10",
+    "HelpText": "",
+    "IsActive": "true",
+    "IsAssetizable": "true",
+    "IsSerialized": "false",
+    "IsSoldOnlyWithOtherProds": "false",
+    "Name": "Laptop Accessories",
+    "ProductCode": "LA001",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "TransferRecordMode": "",
+    "Type": "Bundle",
+    "UsageModelType": ""
+  },
+  "References": [
+    {
+      "Name": "BasedOn",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "RecordTypeId",
+      "ReferencedObject": "RecordType",
+      "ReferencedFields": {
+        "Name": "Commercial",
+        "SobjectType": "Product2"
+      }
+    },
+    {
+      "Name": "SourceProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

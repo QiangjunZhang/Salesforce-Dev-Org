@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "DIS001",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Display Picklist",
+    "GearsetExternalId__c": "IAAmNb00000002d5v0",
+    "Name": "Display Picklist",
+    "Status": "Draft"
+  },
+  "References": []
+}

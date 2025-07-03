@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "IN001",
+    "DisplayValue": "Inkjet",
+    "GearsetDisplayName": "Inkjet",
+    "GearsetExternalId__c": "MAA7IY00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Inkjet",
+    "Sequence": "2.0",
+    "Status": "Draft",
+    "Value": "Inkjet"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAsNb00000002d5v0"
+      }
+    }
+  ]
+}

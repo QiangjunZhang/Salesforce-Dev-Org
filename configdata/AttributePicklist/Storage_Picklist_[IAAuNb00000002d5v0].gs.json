@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "STR001",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Storage Picklist",
+    "GearsetExternalId__c": "IAAuNb00000002d5v0",
+    "Name": "Storage Picklist",
+    "Status": "Draft"
+  },
+  "References": []
+}

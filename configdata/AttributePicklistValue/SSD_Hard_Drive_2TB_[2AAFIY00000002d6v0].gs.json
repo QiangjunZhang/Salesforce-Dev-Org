@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "SSD Hard Drive 2TB",
+    "DisplayValue": "SSD Hard Drive 2TB",
+    "GearsetDisplayName": "SSD Hard Drive 2TB",
+    "GearsetExternalId__c": "2AAFIY00000002d6v0",
+    "IsDefault": "false",
+    "Name": "SSD Hard Drive 2TB",
+    "Sequence": "4.0",
+    "Status": "Draft",
+    "Value": "SSD Hard Drive 2TB"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAuNb00000002d5v0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "PRO",
+    "Description": "",
+    "GearsetDisplayName": "Processor",
+    "GearsetExternalId__c": "EAAleK00000002d3v0",
+    "Name": "Processor"
+  },
+  "References": []
+}

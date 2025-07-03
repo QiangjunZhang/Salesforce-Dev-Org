@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "Mobile POS",
+    "DisplayValue": "Mobile POS",
+    "GearsetDisplayName": "Mobile POS",
+    "GearsetExternalId__c": "2AAQIY00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Mobile POS",
+    "Sequence": "4.0",
+    "Status": "Active",
+    "Value": "Mobile POS"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAyNb00000002d5v0"
+      }
+    }
+  ]
+}

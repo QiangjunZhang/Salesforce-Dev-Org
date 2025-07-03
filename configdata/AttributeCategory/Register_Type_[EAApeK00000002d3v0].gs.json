@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "REGTYP",
+    "Description": "",
+    "GearsetDisplayName": "Register Type",
+    "GearsetExternalId__c": "EAApeK00000002d3v0",
+    "Name": "Register Type"
+  },
+  "References": []
+}

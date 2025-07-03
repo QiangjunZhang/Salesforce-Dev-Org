@@ -1,0 +1,13 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "MEM001",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Memory Picklist",
+    "GearsetExternalId__c": "IAAqNb00000002d5v0",
+    "Name": "Memory Picklist",
+    "Status": "Draft"
+  },
+  "References": []
+}

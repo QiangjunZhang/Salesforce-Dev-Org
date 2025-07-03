@@ -1,0 +1,20 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "DataType": "Text",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "ECOM_Code",
+    "GearsetDisplayName": "ECOM Code",
+    "GearsetExternalId__c": "MAA2QW00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "ECOM Code",
+    "Name": "ECOM Code",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": []
+}

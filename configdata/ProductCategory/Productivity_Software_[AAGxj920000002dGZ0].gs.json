@@ -1,0 +1,28 @@
+{
+  "Object": "ProductCategory",
+  "Fields": {
+    "Code": "",
+    "Description": "",
+    "GearsetDisplayName": "Productivity Software",
+    "GearsetExternalId__c": "AAGxj920000002dGZ0",
+    "IsNavigational": "true",
+    "Name": "Productivity Software",
+    "SortOrder": ""
+  },
+  "References": [
+    {
+      "Name": "Catalog",
+      "ReferencedObject": "ProductCatalog",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAGBrs10000002dSZ0"
+      }
+    },
+    {
+      "Name": "ParentCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

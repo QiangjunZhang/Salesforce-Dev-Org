@@ -1,0 +1,11 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "POSFEAT",
+    "Description": "",
+    "GearsetDisplayName": "POS Features",
+    "GearsetExternalId__c": "EAAreK00000002d3v0",
+    "Name": "POS Features"
+  },
+  "References": []
+}

@@ -1,0 +1,24 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "SSD Hard Drive 1TB",
+    "DisplayValue": "SSD Hard Drive 1TB",
+    "GearsetDisplayName": "SSD Hard Drive 1TB",
+    "GearsetExternalId__c": "2AACIY00000002d6v0",
+    "IsDefault": "false",
+    "Name": "SSD Hard Drive 1TB",
+    "Sequence": "3.0",
+    "Status": "Draft",
+    "Value": "SSD Hard Drive 1TB"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "IAAuNb00000002d5v0"
+      }
+    }
+  ]
+}
