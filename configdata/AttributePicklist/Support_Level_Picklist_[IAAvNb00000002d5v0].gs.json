@@ -9,5 +9,13 @@
     "Name": "Support Level Picklist",
     "Status": "Draft"
   },
-  "References": []
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
 }

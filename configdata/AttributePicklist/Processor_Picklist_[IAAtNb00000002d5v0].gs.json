@@ -9,5 +9,13 @@
     "Name": "Processor Picklist",
     "Status": "Draft"
   },
-  "References": []
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
 }

@@ -16,5 +16,13 @@
     "SourceSystemIdentifier": "",
     "ValueDescription": ""
   },
-  "References": []
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
 }
