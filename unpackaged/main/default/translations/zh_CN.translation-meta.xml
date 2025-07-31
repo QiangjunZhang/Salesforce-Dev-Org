@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+﻿<?xml version="1.0" encoding="utf-8"?><Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customLabels>
         <label><!-- first label --></label>
         <name>first_label</name>
@@ -6,10 +6,6 @@
     <customLabels>
         <label><!-- second label --></label>
         <name>second_label</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- third label --></label>
-        <name>third_label</name>
     </customLabels>
     <flowDefinitions>
         <flows>

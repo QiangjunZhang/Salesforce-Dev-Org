@@ -558,6 +558,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <readable>false</readable>
+        <field>Event.Type</field>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Campaign.AmountWonOpportunities</field>
         <readable>true</readable>
