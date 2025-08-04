@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "REG",
+    "GearsetDisplayName": "Registers",
+    "GearsetExternalId__c": "HAEzfQQF000002dB11",
+    "Name": "Registers",
+    "Status": "Active"
+  },
+  "References": []
+}

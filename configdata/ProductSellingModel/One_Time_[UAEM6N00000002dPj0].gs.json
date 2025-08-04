@@ -1,0 +1,13 @@
+{
+  "Object": "ProductSellingModel",
+  "Fields": {
+    "GearsetDisplayName": "One Time",
+    "GearsetExternalId__c": "UAEM6N00000002dPj0",
+    "Name": "One Time",
+    "PricingTerm": "",
+    "PricingTermUnit": "",
+    "SellingModelType": "OneTime",
+    "Status": "Active"
+  },
+  "References": []
+}

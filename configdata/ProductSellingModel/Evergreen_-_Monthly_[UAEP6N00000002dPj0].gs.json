@@ -1,0 +1,13 @@
+{
+  "Object": "ProductSellingModel",
+  "Fields": {
+    "GearsetDisplayName": "Evergreen - Monthly",
+    "GearsetExternalId__c": "UAEP6N00000002dPj0",
+    "Name": "Evergreen - Monthly",
+    "PricingTerm": "1",
+    "PricingTermUnit": "Months",
+    "SellingModelType": "Evergreen",
+    "Status": "Active"
+  },
+  "References": []
+}

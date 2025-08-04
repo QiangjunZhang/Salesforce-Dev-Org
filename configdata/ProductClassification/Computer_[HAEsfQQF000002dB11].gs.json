@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "CMP001",
+    "GearsetDisplayName": "Computer",
+    "GearsetExternalId__c": "HAEsfQQF000002dB11",
+    "Name": "Computer",
+    "Status": "Active"
+  },
+  "References": []
+}

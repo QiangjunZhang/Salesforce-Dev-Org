@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "KB001",
+    "GearsetDisplayName": "Keyboard",
+    "GearsetExternalId__c": "HAExfQQF000002dB11",
+    "Name": "Keyboard",
+    "Status": "Active"
+  },
+  "References": []
+}

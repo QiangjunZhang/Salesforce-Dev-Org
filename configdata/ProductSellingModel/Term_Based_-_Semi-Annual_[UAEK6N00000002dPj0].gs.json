@@ -1,0 +1,13 @@
+{
+  "Object": "ProductSellingModel",
+  "Fields": {
+    "GearsetDisplayName": "Term Based - Semi-Annual",
+    "GearsetExternalId__c": "UAEK6N00000002dPj0",
+    "Name": "Term Based - Semi-Annual",
+    "PricingTerm": "1",
+    "PricingTermUnit": "Semi-Annual",
+    "SellingModelType": "TermDefined",
+    "Status": "Active"
+  },
+  "References": []
+}

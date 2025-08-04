@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "M001",
+    "GearsetDisplayName": "Mouse",
+    "GearsetExternalId__c": "HAEyfQQF000002dB11",
+    "Name": "Mouse",
+    "Status": "Active"
+  },
+  "References": []
+}

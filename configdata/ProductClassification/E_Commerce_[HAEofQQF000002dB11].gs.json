@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "ECOM",
+    "GearsetDisplayName": "E Commerce",
+    "GearsetExternalId__c": "HAEofQQF000002dB11",
+    "Name": "E Commerce",
+    "Status": "Active"
+  },
+  "References": []
+}

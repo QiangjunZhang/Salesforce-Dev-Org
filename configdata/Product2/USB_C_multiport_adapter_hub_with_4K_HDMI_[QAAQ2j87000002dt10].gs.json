@@ -1,0 +1,53 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "AvailabilityDate": "",
+    "ConfigureDuringSale": "NotAllowed",
+    "DecompositionScope": "",
+    "Description": "",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "https://media.istockphoto.com/id/1399190357/photo/usb-c-hub-adapter-type-c-hub-4k-hdmi-sd-micro-card-reader-multiport-station-for-laptop-with.jpg?s=1024x1024&w=is&k=20&c=jb7Jq-2zO9gxyv_pp6dYM4kqQjOVtJfED3uFCSpIPL8=",
+    "EndOfLifeDate": "",
+    "ExternalId": "",
+    "Family": "Miscellaneous",
+    "FulfillmentQtyCalcMethod": "",
+    "GearsetDisplayName": "USB C multiport adapter hub with 4K HDMI",
+    "GearsetExternalId__c": "QAAQ2j87000002dt10",
+    "HelpText": "",
+    "IsActive": "true",
+    "IsAssetizable": "true",
+    "IsSerialized": "false",
+    "IsSoldOnlyWithOtherProds": "false",
+    "Name": "USB C multiport adapter hub with 4K HDMI",
+    "ProductCode": "USB01",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "TransferRecordMode": "",
+    "Type": "",
+    "UsageModelType": ""
+  },
+  "References": [
+    {
+      "Name": "BasedOn",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "RecordTypeId",
+      "ReferencedObject": "RecordType",
+      "ReferencedFields": {
+        "Name": "Commercial",
+        "SobjectType": "Product2"
+      }
+    },
+    {
+      "Name": "SourceProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

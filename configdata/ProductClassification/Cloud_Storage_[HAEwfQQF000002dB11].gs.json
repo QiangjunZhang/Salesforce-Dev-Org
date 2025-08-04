@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "CS001",
+    "GearsetDisplayName": "Cloud Storage",
+    "GearsetExternalId__c": "HAEwfQQF000002dB11",
+    "Name": "Cloud Storage",
+    "Status": "Active"
+  },
+  "References": []
+}

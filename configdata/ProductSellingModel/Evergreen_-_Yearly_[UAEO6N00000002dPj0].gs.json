@@ -1,0 +1,13 @@
+{
+  "Object": "ProductSellingModel",
+  "Fields": {
+    "GearsetDisplayName": "Evergreen - Yearly",
+    "GearsetExternalId__c": "UAEO6N00000002dPj0",
+    "Name": "Evergreen - Yearly",
+    "PricingTerm": "1",
+    "PricingTermUnit": "Annual",
+    "SellingModelType": "Evergreen",
+    "Status": "Active"
+  },
+  "References": []
+}

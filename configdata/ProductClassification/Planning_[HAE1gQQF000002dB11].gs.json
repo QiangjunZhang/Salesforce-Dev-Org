@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "PLAN",
+    "GearsetDisplayName": "Planning",
+    "GearsetExternalId__c": "HAE1gQQF000002dB11",
+    "Name": "Planning",
+    "Status": "Active"
+  },
+  "References": []
+}

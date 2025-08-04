@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "ACTVN",
+    "GearsetDisplayName": "Activation",
+    "GearsetExternalId__c": "HAE4gQQF000002dB11",
+    "Name": "Activation",
+    "Status": "Active"
+  },
+  "References": []
+}

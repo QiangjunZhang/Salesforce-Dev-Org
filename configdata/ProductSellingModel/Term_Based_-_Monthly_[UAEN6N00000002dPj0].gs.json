@@ -1,0 +1,13 @@
+{
+  "Object": "ProductSellingModel",
+  "Fields": {
+    "GearsetDisplayName": "Term Based - Monthly",
+    "GearsetExternalId__c": "UAEN6N00000002dPj0",
+    "Name": "Term Based - Monthly",
+    "PricingTerm": "1",
+    "PricingTermUnit": "Months",
+    "SellingModelType": "TermDefined",
+    "Status": "Active"
+  },
+  "References": []
+}

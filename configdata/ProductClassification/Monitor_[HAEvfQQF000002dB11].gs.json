@@ -1,0 +1,11 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "MN001",
+    "GearsetDisplayName": "Monitor",
+    "GearsetExternalId__c": "HAEvfQQF000002dB11",
+    "Name": "Monitor",
+    "Status": "Active"
+  },
+  "References": []
+}
