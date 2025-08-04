@@ -1,0 +1,25 @@
+{
+  "Object": "ProductCategoryProduct",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Headset - Accessories",
+    "GearsetExternalId__c": "MAG9FZ10000002dRZ0",
+    "IsPrimaryCategory": "false"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAlUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "ProductCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAGbwp10000002dGZ0"
+      }
+    }
+  ]
+}

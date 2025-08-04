@@ -1,0 +1,49 @@
+{
+  "Object": "PriceBookEntryDerivedPrice",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "DerivedPricingScope": "Both",
+    "EffectiveFrom": "2024-08-01T08:31:00.000Z",
+    "EffectiveTo": "",
+    "Formula": "TotalPrice * 0.40",
+    "GearsetDisplayName": "AAA3vu00000002d281",
+    "GearsetExternalId__c": "AAA3vu00000002d281"
+  },
+  "References": [
+    {
+      "Name": "ContributingProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAmUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "Pricebook",
+      "ReferencedObject": "Pricebook2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "StandardPriceBook"
+      }
+    },
+    {
+      "Name": "PricebookEntry",
+      "ReferencedObject": "PricebookEntry",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAA4IOd1000002du10"
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAoUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "ProductSellingModel",
+      "ReferencedObject": "ProductSellingModel",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAEB0900000002dPj0"
+      }
+    }
+  ]
+}

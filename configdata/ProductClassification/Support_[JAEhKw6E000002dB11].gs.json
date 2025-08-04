@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "SL001",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Support",
+    "GearsetExternalId__c": "JAEhKw6E000002dB11",
+    "Name": "Support",
+    "Status": "Active"
+  },
+  "References": []
+}

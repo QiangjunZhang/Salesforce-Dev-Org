@@ -1,0 +1,22 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "PRI001",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Printer Picklist",
+    "GearsetExternalId__c": "EAAknL00000002d5v0",
+    "Name": "Printer Picklist",
+    "Status": "Draft"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

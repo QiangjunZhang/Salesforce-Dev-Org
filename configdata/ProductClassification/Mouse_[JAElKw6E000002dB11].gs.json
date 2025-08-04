@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "M001",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Mouse",
+    "GearsetExternalId__c": "JAElKw6E000002dB11",
+    "Name": "Mouse",
+    "Status": "Active"
+  },
+  "References": []
+}

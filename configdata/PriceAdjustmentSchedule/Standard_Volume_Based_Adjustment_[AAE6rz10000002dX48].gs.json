@@ -1,0 +1,31 @@
+{
+  "Object": "PriceAdjustmentSchedule",
+  "Fields": {
+    "AdjustmentMethod": "Range",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "EffectiveFrom": "2023-11-27T04:02:00.000Z",
+    "EffectiveTo": "",
+    "GearsetDisplayName": "Standard Volume Based Adjustment",
+    "GearsetExternalId__c": "AAE6rz10000002dX48",
+    "IsActive": "false",
+    "Name": "Standard Volume Based Adjustment",
+    "ScheduleType": "Volume"
+  },
+  "References": [
+    {
+      "Name": "Contract",
+      "ReferencedObject": "Contract",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "Pricebook2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

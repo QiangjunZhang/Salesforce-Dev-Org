@@ -1,0 +1,13 @@
+{
+  "Object": "RateCard",
+  "Fields": {
+    "Description": "",
+    "EffectiveFrom": "2024-10-08T19:00:00.000Z",
+    "EffectiveTo": "",
+    "GearsetDisplayName": "API Access Premium Rate Card",
+    "GearsetExternalId__c": "YAGJF800000002dIC1",
+    "Name": "API Access Premium Rate Card",
+    "Type": "Base"
+  },
+  "References": []
+}

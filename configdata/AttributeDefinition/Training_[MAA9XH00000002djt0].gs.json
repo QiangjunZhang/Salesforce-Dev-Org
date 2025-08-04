@@ -1,0 +1,29 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Training",
+    "GearsetDisplayName": "Training",
+    "GearsetExternalId__c": "MAA9XH00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "Training",
+    "Name": "Training",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

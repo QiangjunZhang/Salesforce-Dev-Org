@@ -1,0 +1,191 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "AvailabilityDate": "",
+    "ConfigureDuringSale": "Allowed",
+    "CurrencyIsoCode": "GBP",
+    "DecompositionScope": "",
+    "Description": "Any type of Support for your products purchased from our portal.",
+    "DiscontinuedDate": "",
+    "DisplayUrl": "https://plus.unsplash.com/premium_photo-1687819872933-9ad544e714b0?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "EndOfLifeDate": "",
+    "ExternalId": "",
+    "Extras__c": "false",
+    "Family": "Service",
+    "FulfillmentQtyCalcMethod": "",
+    "GearsetDisplayName": "SP001 - Support",
+    "GearsetExternalId__c": "MAAvUHb6000002dt10",
+    "HelpText": "",
+    "IsActive": "true",
+    "IsAssetizable": "true",
+    "IsSerialized": "false",
+    "IsShippingChargeNotApplicable": "false",
+    "IsSoldOnlyWithOtherProds": "false",
+    "Name": "Support",
+    "ProductCode": "SP001",
+    "ProductPurpose": "Sell",
+    "QuantityUnitOfMeasure": "",
+    "Region__c": "",
+    "SBQQ__AssetAmendmentBehavior__c": "",
+    "SBQQ__AssetConversion__c": "",
+    "SBQQ__BatchQuantity__c": "",
+    "SBQQ__BillingFrequency__c": "",
+    "SBQQ__BillingType__c": "",
+    "SBQQ__BlockPricingField__c": "",
+    "SBQQ__ChargeType__c": "",
+    "SBQQ__Component__c": "false",
+    "SBQQ__CompoundDiscountRate__c": "",
+    "SBQQ__ConfigurationEvent__c": "",
+    "SBQQ__ConfigurationFieldSet__c": "",
+    "SBQQ__ConfigurationFields__c": "",
+    "SBQQ__ConfigurationFormTitle__c": "",
+    "SBQQ__ConfigurationType__c": "",
+    "SBQQ__ConfigurationValidator__c": "",
+    "SBQQ__ConfiguredCodePattern__c": "",
+    "SBQQ__ConfiguredDescriptionPattern__c": "",
+    "SBQQ__CostEditable__c": "false",
+    "SBQQ__CustomConfigurationPage__c": "",
+    "SBQQ__CustomConfigurationRequired__c": "false",
+    "SBQQ__CustomerCommunityAvailability__c": "",
+    "SBQQ__DefaultPricingTable__c": "",
+    "SBQQ__DefaultQuantity__c": "",
+    "SBQQ__DescriptionLocked__c": "false",
+    "SBQQ__DynamicPricingConstraint__c": "",
+    "SBQQ__EnableLargeConfiguration__c": "false",
+    "SBQQ__ExcludeFromMaintenance__c": "false",
+    "SBQQ__ExcludeFromOpportunity__c": "false",
+    "SBQQ__ExternallyConfigurable__c": "false",
+    "SBQQ__GenerateContractedPrice__c": "",
+    "SBQQ__HasConfigurationAttributes__c": "false",
+    "SBQQ__HasConsumptionSchedule__c": "false",
+    "SBQQ__Hidden__c": "false",
+    "SBQQ__HidePriceInSearchResults__c": "false",
+    "SBQQ__IncludeInMaintenance__c": "false",
+    "SBQQ__NewQuoteGroup__c": "false",
+    "SBQQ__NonDiscountable__c": "false",
+    "SBQQ__NonPartnerDiscountable__c": "false",
+    "SBQQ__Optional__c": "false",
+    "SBQQ__OptionLayout__c": "",
+    "SBQQ__OptionSelectionMethod__c": "",
+    "SBQQ__PriceEditable__c": "false",
+    "SBQQ__PricingMethodEditable__c": "false",
+    "SBQQ__PricingMethod__c": "",
+    "SBQQ__ProductPictureID__c": "",
+    "SBQQ__QuantityEditable__c": "true",
+    "SBQQ__QuantityScale__c": "",
+    "SBQQ__ReconfigurationDisabled__c": "false",
+    "SBQQ__SortOrder__c": "",
+    "SBQQ__Specifications__c": "",
+    "SBQQ__SubscriptionBase__c": "",
+    "SBQQ__SubscriptionCategory__c": "",
+    "SBQQ__SubscriptionPercent__c": "",
+    "SBQQ__SubscriptionPricing__c": "",
+    "SBQQ__SubscriptionTerm__c": "",
+    "SBQQ__SubscriptionType__c": "",
+    "SBQQ__Taxable__c": "false",
+    "SBQQ__TaxCode__c": "",
+    "SBQQ__TermDiscountLevel__c": "",
+    "SBQQ__UpgradeRatio__c": "",
+    "ShippingWeight": "",
+    "ShippingWeightUnitOfMeasure": "",
+    "StockCheckMethod": "",
+    "StockKeepingUnit": "",
+    "TransferRecordMode": "",
+    "Type": "",
+    "UsageModelType": ""
+  },
+  "References": [
+    {
+      "Name": "BasedOn",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "JAEhKw6E000002dB11"
+      }
+    },
+    {
+      "Name": "RecordTypeId",
+      "ReferencedObject": "RecordType",
+      "ReferencedFields": {
+        "Name": "Commercial",
+        "SobjectType": "Product2"
+      }
+    },
+    {
+      "Name": "SBQQ__CostSchedule__r",
+      "ReferencedObject": "SBQQ__DiscountSchedule__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__DiscountCategory__r",
+      "ReferencedObject": "SBQQ__DiscountCategory__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__DiscountSchedule__r",
+      "ReferencedObject": "SBQQ__DiscountSchedule__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__PricingGuidance__r",
+      "ReferencedObject": "SBQQ__PricingGuidance__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__RenewalProduct__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__SubscriptionTarget__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__TermDiscountSchedule__r",
+      "ReferencedObject": "SBQQ__DiscountSchedule__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__UpgradeCredit__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__UpgradeSource__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__UpgradeTarget__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SourceProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

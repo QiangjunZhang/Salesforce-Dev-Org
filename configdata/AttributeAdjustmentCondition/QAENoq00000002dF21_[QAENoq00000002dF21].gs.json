@@ -1,0 +1,37 @@
+{
+  "Object": "AttributeAdjustmentCondition",
+  "Fields": {
+    "BooleanValue": "",
+    "DateTimeValue": "",
+    "DateValue": "",
+    "DoubleValue": "",
+    "GearsetDisplayName": "QAENoq00000002dF21",
+    "GearsetExternalId__c": "QAENoq00000002dF21",
+    "IntegerValue": "",
+    "Operator": "equals",
+    "StringValue": "Premium Plus Support"
+  },
+  "References": [
+    {
+      "Name": "AttributeBasedAdjRule",
+      "ReferencedObject": "AttributeBasedAdjRule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAErVZ00000002dH21"
+      }
+    },
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AAHXH00000002djt0"
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAvUHb6000002dt10"
+      }
+    }
+  ]
+}

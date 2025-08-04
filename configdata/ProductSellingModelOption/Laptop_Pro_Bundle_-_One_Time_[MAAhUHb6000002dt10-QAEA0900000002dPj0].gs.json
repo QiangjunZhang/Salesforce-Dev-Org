@@ -1,0 +1,23 @@
+{
+  "Object": "ProductSellingModelOption",
+  "Fields": {
+    "GearsetDisplayName": "Laptop Pro Bundle - One Time",
+    "IsDefault": "false"
+  },
+  "References": [
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAhUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "ProductSellingModel",
+      "ReferencedObject": "ProductSellingModel",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAEA0900000002dPj0"
+      }
+    }
+  ]
+}

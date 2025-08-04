@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "PP001",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Paper",
+    "GearsetExternalId__c": "EAAjkG00000002d3v0",
+    "Name": "Paper"
+  },
+  "References": []
+}

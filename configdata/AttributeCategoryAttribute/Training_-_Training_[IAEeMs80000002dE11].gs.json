@@ -1,0 +1,24 @@
+{
+  "Object": "AttributeCategoryAttribute",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Training - Training",
+    "GearsetExternalId__c": "IAEeMs80000002dE11"
+  },
+  "References": [
+    {
+      "Name": "AttributeCategory",
+      "ReferencedObject": "AttributeCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAmkG00000002d3v0"
+      }
+    },
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAA9XH00000002djt0"
+      }
+    }
+  ]
+}

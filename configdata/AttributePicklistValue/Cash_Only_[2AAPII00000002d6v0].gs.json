@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "Cash Only",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Cash Only",
+    "GearsetDisplayName": "Cash Only",
+    "GearsetExternalId__c": "2AAPII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Cash Only",
+    "Sequence": "2.0",
+    "Status": "Active",
+    "Value": "Cash Only"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAonL00000002d5v0"
+      }
+    }
+  ]
+}

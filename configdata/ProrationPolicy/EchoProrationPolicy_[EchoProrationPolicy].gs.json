@@ -1,0 +1,10 @@
+{
+  "Object": "ProrationPolicy",
+  "Fields": {
+    "GearsetDisplayName": "EchoProrationPolicy",
+    "Name": "EchoProrationPolicy",
+    "ProrationPolicyType": "StandardTimePeriods",
+    "RemainderStrategy": "AddToLast"
+  },
+  "References": []
+}

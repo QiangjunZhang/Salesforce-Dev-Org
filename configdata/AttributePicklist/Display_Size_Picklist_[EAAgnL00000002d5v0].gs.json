@@ -1,0 +1,22 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "DISSIZE001",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Display Size Picklist",
+    "GearsetExternalId__c": "EAAgnL00000002d5v0",
+    "Name": "Display Size Picklist",
+    "Status": "Draft"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

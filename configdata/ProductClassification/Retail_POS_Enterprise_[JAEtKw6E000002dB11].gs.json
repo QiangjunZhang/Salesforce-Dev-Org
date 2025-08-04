@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "RETPOSENT",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Retail POS Enterprise",
+    "GearsetExternalId__c": "JAEtKw6E000002dB11",
+    "Name": "Retail POS Enterprise",
+    "Status": "Active"
+  },
+  "References": []
+}

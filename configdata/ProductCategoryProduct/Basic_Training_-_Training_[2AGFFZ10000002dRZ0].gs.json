@@ -1,0 +1,25 @@
+{
+  "Object": "ProductCategoryProduct",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Basic Training - Training",
+    "GearsetExternalId__c": "2AGFFZ10000002dRZ0",
+    "IsPrimaryCategory": "false"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAArUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "ProductCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAGdwp10000002dGZ0"
+      }
+    }
+  ]
+}

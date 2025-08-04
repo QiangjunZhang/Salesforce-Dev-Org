@@ -1,0 +1,28 @@
+{
+  "Object": "UnitOfMeasureClass",
+  "Fields": {
+    "Code": "CURR004",
+    "Description": "",
+    "GearsetDisplayName": "Currency",
+    "GearsetExternalId__c": "EAG6zE00000002dQB1",
+    "Name": "Currency",
+    "Status": "Active",
+    "Type": "Currency"
+  },
+  "References": [
+    {
+      "Name": "BaseUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEjvS00000002dEh0"
+      }
+    },
+    {
+      "Name": "DefaultUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEjvS00000002dEh0"
+      }
+    }
+  ]
+}

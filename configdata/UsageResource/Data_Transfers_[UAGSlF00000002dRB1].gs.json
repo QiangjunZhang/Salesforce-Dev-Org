@@ -1,0 +1,42 @@
+{
+  "Object": "UsageResource",
+  "Fields": {
+    "Category": "Usage",
+    "Code": "DT00909",
+    "Description": "",
+    "GearsetDisplayName": "Data Transfers",
+    "GearsetExternalId__c": "UAGSlF00000002dRB1",
+    "Name": "Data Transfers",
+    "Status": "Active"
+  },
+  "References": [
+    {
+      "Name": "DefaultUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEdvS00000002dEh0"
+      }
+    },
+    {
+      "Name": "UnitOfMeasureClass",
+      "ReferencedObject": "UnitOfMeasureClass",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAG7zE00000002dQB1"
+      }
+    },
+    {
+      "Name": "UsageDefinitionProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "UsageResourceBillingPolicy",
+      "ReferencedObject": "UsageResourceBillingPolicy",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAr8800000002dfc1"
+      }
+    }
+  ]
+}

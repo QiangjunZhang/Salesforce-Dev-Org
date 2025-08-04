@@ -1,0 +1,13 @@
+{
+  "Object": "RatingRequest",
+  "Fields": {
+    "ContextDefinition": "RatingDiscoveryContext",
+    "ContextMapping": "Hello",
+    "DoesExcludeWaterfall": "false",
+    "GearsetDisplayName": "MACpDR20000002drF1",
+    "GearsetExternalId__c": "MACpDR20000002drF1",
+    "RatingProcedureName": "MyRatingProcedure",
+    "Status": "ReadyForRating"
+  },
+  "References": []
+}

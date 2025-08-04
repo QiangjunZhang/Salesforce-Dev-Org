@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "MSI Gaming GeForce RTX 3060",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "MSI Gaming GeForce RTX 3060",
+    "GearsetDisplayName": "MSI Gaming GeForce RTX 3060",
+    "GearsetExternalId__c": "MAA3II00000002d6v0",
+    "IsDefault": "false",
+    "Name": "MSI Gaming GeForce RTX 3060",
+    "Sequence": "2.0",
+    "Status": "Draft",
+    "Value": "MSI Gaming GeForce RTX 3060"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAhnL00000002d5v0"
+      }
+    }
+  ]
+}

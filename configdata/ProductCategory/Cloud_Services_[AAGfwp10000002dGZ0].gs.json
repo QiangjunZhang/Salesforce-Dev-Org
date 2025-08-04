@@ -1,0 +1,29 @@
+{
+  "Object": "ProductCategory",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Cloud Services",
+    "GearsetExternalId__c": "AAGfwp10000002dGZ0",
+    "IsNavigational": "true",
+    "Name": "Cloud Services",
+    "SortOrder": ""
+  },
+  "References": [
+    {
+      "Name": "Catalog",
+      "ReferencedObject": "ProductCatalog",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "YAGVUa10000002dSZ0"
+      }
+    },
+    {
+      "Name": "ParentCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

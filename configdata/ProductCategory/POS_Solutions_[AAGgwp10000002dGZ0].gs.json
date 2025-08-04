@@ -1,0 +1,29 @@
+{
+  "Object": "ProductCategory",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "POS Solutions",
+    "GearsetExternalId__c": "AAGgwp10000002dGZ0",
+    "IsNavigational": "true",
+    "Name": "POS Solutions",
+    "SortOrder": ""
+  },
+  "References": [
+    {
+      "Name": "Catalog",
+      "ReferencedObject": "ProductCatalog",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "YAGWUa10000002dSZ0"
+      }
+    },
+    {
+      "Name": "ParentCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

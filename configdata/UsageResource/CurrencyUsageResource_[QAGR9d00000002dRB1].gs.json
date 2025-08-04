@@ -1,0 +1,42 @@
+{
+  "Object": "UsageResource",
+  "Fields": {
+    "Category": "Usage",
+    "Code": "CUR",
+    "Description": "",
+    "GearsetDisplayName": "CurrencyUsageResource",
+    "GearsetExternalId__c": "QAGR9d00000002dRB1",
+    "Name": "CurrencyUsageResource",
+    "Status": "Draft"
+  },
+  "References": [
+    {
+      "Name": "DefaultUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "UAEFbV10000002dEh0"
+      }
+    },
+    {
+      "Name": "UnitOfMeasureClass",
+      "ReferencedObject": "UnitOfMeasureClass",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAGDmm00000002dQB1"
+      }
+    },
+    {
+      "Name": "UsageDefinitionProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "UsageResourceBillingPolicy",
+      "ReferencedObject": "UsageResourceBillingPolicy",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AANXS00000002dfc1"
+      }
+    }
+  ]
+}

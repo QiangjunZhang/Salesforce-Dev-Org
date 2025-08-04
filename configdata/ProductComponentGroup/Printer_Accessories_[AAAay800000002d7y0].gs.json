@@ -1,0 +1,30 @@
+{
+  "Object": "ProductComponentGroup",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Printer Accessories",
+    "GearsetExternalId__c": "AAAay800000002d7y0",
+    "MaxBundleComponents": "",
+    "MinBundleComponents": "",
+    "Name": "Printer Accessories",
+    "Sequence": "2"
+  },
+  "References": [
+    {
+      "Name": "ParentGroup",
+      "ReferencedObject": "ProductComponentGroup",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAiUHb6000002dt10"
+      }
+    }
+  ]
+}

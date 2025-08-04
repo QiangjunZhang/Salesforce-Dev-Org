@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "SSD Hard Drive 512GB",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "SSD Hard Drive 512GB",
+    "GearsetDisplayName": "SSD Hard Drive 512GB",
+    "GearsetExternalId__c": "2AAIII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "SSD Hard Drive 512GB",
+    "Sequence": "2.0",
+    "Status": "Draft",
+    "Value": "SSD Hard Drive 512GB"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAmnL00000002d5v0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Object": "AttributeBasedAdjustment",
+  "Fields": {
+    "AdjustmentType": "Percentage",
+    "AdjustmentValue": "10.0",
+    "CurrencyIsoCode": "GBP",
+    "EffectiveFrom": "2024-07-10T07:08:00.000Z",
+    "EffectiveTo": "",
+    "GearsetDisplayName": "YAEZUo27000002dD21",
+    "GearsetExternalId__c": "YAEZUo27000002dD21"
+  },
+  "References": [
+    {
+      "Name": "AttributeBasedAdjRule",
+      "ReferencedObject": "AttributeBasedAdjRule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAEfVZ00000002dH21"
+      }
+    },
+    {
+      "Name": "PriceAdjustmentSchedule",
+      "ReferencedObject": "PriceAdjustmentSchedule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAE3rz10000002dX48"
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAArUHb6000002dt10"
+      }
+    }
+  ]
+}

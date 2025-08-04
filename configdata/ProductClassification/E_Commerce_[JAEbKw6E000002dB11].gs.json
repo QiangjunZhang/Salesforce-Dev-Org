@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "ECOM",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "E Commerce",
+    "GearsetExternalId__c": "JAEbKw6E000002dB11",
+    "Name": "E Commerce",
+    "Status": "Active"
+  },
+  "References": []
+}

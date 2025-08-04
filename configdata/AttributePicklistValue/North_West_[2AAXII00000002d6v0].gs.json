@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "North West",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "North West",
+    "GearsetDisplayName": "North West",
+    "GearsetExternalId__c": "2AAXII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "North West",
+    "Sequence": "2.0",
+    "Status": "Active",
+    "Value": "North West"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAArnL00000002d5v0"
+      }
+    }
+  ]
+}

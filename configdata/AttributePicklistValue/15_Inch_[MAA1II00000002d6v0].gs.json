@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "15IN",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "15 Inch",
+    "GearsetDisplayName": "15 Inch",
+    "GearsetExternalId__c": "MAA1II00000002d6v0",
+    "IsDefault": "false",
+    "Name": "15 Inch",
+    "Sequence": "2.0",
+    "Status": "Draft",
+    "Value": "15 Inch"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAgnL00000002d5v0"
+      }
+    }
+  ]
+}

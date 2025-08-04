@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "South East",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "South East",
+    "GearsetDisplayName": "South East",
+    "GearsetExternalId__c": "2AAZII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "South East",
+    "Sequence": "4.0",
+    "Status": "Active",
+    "Value": "South East"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAArnL00000002d5v0"
+      }
+    }
+  ]
+}

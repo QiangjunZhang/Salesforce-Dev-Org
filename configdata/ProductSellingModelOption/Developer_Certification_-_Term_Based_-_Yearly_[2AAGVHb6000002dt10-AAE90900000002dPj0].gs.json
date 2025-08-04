@@ -1,0 +1,23 @@
+{
+  "Object": "ProductSellingModelOption",
+  "Fields": {
+    "GearsetDisplayName": "Developer Certification - Term Based - Yearly",
+    "IsDefault": "true"
+  },
+  "References": [
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AAGVHb6000002dt10"
+      }
+    },
+    {
+      "Name": "ProductSellingModel",
+      "ReferencedObject": "ProductSellingModel",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAE90900000002dPj0"
+      }
+    }
+  ]
+}

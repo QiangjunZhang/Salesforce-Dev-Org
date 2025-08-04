@@ -1,0 +1,27 @@
+{
+  "Object": "ProductRampSegment",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "DurationType": "Days",
+    "GearsetDisplayName": "UAGI8S20000002dTF1",
+    "GearsetExternalId__c": "UAGI8S20000002dTF1",
+    "SegmentType": "FreeTrial",
+    "TrialDuration": "45"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAA0VHb6000002dt10"
+      }
+    },
+    {
+      "Name": "ProductSellingModel",
+      "ReferencedObject": "ProductSellingModel",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAE90900000002dPj0"
+      }
+    }
+  ]
+}

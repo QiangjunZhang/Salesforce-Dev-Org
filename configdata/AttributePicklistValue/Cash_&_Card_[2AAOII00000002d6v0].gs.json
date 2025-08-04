@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "Cash & Card",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Cash & Card",
+    "GearsetDisplayName": "Cash & Card",
+    "GearsetExternalId__c": "2AAOII00000002d6v0",
+    "IsDefault": "true",
+    "Name": "Cash & Card",
+    "Sequence": "1.0",
+    "Status": "Active",
+    "Value": "Cash & Card"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAonL00000002d5v0"
+      }
+    }
+  ]
+}

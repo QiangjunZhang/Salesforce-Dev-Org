@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "POSFEAT",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "POS Features",
+    "GearsetExternalId__c": "EAAvkG00000002d3v0",
+    "Name": "POS Features"
+  },
+  "References": []
+}

@@ -1,0 +1,42 @@
+{
+  "Object": "ProductClassificationAttr",
+  "Fields": {
+    "AttributeNameOverride": "Register Type",
+    "CurrencyIsoCode": "GBP",
+    "DefaultValue": "Cash & Card",
+    "Description": "",
+    "DisplayType": "",
+    "GearsetDisplayName": "Register Type",
+    "GearsetExternalId__c": "CAEqukJp000002dC11",
+    "HelpText": "",
+    "IsHidden": "false",
+    "IsPriceImpacting": "false",
+    "IsReadOnly": "false",
+    "IsRequired": "true",
+    "MaximumCharacterCount": "",
+    "MaximumValue": "",
+    "MinimumCharacterCount": "",
+    "MinimumValue": "",
+    "Name": "Register Type",
+    "Sequence": "0",
+    "Status": "Active",
+    "StepValue": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AAIXH00000002djt0"
+      }
+    },
+    {
+      "Name": "ProductClassification",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "JAEmKw6E000002dB11"
+      }
+    }
+  ]
+}

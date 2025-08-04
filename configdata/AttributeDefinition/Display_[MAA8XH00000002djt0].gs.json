@@ -1,0 +1,29 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Display",
+    "GearsetDisplayName": "Display",
+    "GearsetExternalId__c": "MAA8XH00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "true",
+    "Label": "Display",
+    "Name": "Display",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

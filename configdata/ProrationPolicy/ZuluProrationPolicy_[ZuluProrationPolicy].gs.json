@@ -1,0 +1,10 @@
+{
+  "Object": "ProrationPolicy",
+  "Fields": {
+    "GearsetDisplayName": "ZuluProrationPolicy",
+    "Name": "ZuluProrationPolicy",
+    "ProrationPolicyType": "StandardTimePeriods",
+    "RemainderStrategy": "AddToLast"
+  },
+  "References": []
+}

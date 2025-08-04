@@ -1,0 +1,35 @@
+{
+  "Object": "ProductAttributeDefinition",
+  "Fields": {
+    "AttributeNameOverride": "Storage",
+    "CurrencyIsoCode": "GBP",
+    "DefaultValue": "SSD Hard Drive 256GB",
+    "Description": "",
+    "DisplayType": "",
+    "GearsetDisplayName": "Storage",
+    "GearsetExternalId__c": "IAArY800000002d7v0",
+    "HelpText": "",
+    "IsHidden": "false",
+    "IsPriceImpacting": "false",
+    "IsReadOnly": "false",
+    "IsRequired": "true",
+    "MaximumCharacterCount": "",
+    "MaximumValue": "",
+    "MinimumCharacterCount": "",
+    "MinimumValue": "",
+    "Name": "Storage",
+    "Sequence": "0",
+    "Status": "Active",
+    "StepValue": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AAGXH00000002djt0"
+      }
+    }
+  ]
+}

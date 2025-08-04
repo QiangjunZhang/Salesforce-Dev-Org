@@ -1,0 +1,22 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "GRA001",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Graphics Picklist",
+    "GearsetExternalId__c": "EAAhnL00000002d5v0",
+    "Name": "Graphics Picklist",
+    "Status": "Draft"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

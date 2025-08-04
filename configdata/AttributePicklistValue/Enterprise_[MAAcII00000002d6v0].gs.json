@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "ENT001",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Enterprise",
+    "GearsetDisplayName": "Enterprise",
+    "GearsetExternalId__c": "MAAcII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Enterprise",
+    "Sequence": "1.0",
+    "Status": "Active",
+    "Value": "Enterprise"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAdnL00000002d5v0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Object": "PricebookEntry",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Standard Price Book - Laptop Accessories - GBP",
+    "GearsetExternalId__c": "MAAbIOd1000002du10",
+    "IsActive": "true",
+    "UnitPrice": "57.24",
+    "UseStandardPrice": "false"
+  },
+  "References": [
+    {
+      "Name": "Pricebook2",
+      "ReferencedObject": "Pricebook2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "StandardPriceBook"
+      }
+    },
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAA6VHb6000002dt10"
+      }
+    }
+  ]
+}

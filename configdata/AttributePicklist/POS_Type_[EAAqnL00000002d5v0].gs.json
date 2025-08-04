@@ -1,0 +1,22 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "POS0001",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Text",
+    "Description": "POS Type",
+    "GearsetDisplayName": "POS Type",
+    "GearsetExternalId__c": "EAAqnL00000002d5v0",
+    "Name": "POS Type",
+    "Status": "Active"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

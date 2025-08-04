@@ -1,0 +1,35 @@
+{
+  "Object": "ProductAttributeDefinition",
+  "Fields": {
+    "AttributeNameOverride": "Graphics",
+    "CurrencyIsoCode": "GBP",
+    "DefaultValue": "",
+    "Description": "",
+    "DisplayType": "",
+    "GearsetDisplayName": "Graphics",
+    "GearsetExternalId__c": "IAAhY800000002d7v0",
+    "HelpText": "",
+    "IsHidden": "false",
+    "IsPriceImpacting": "true",
+    "IsReadOnly": "false",
+    "IsRequired": "false",
+    "MaximumCharacterCount": "",
+    "MaximumValue": "",
+    "MinimumCharacterCount": "",
+    "MinimumValue": "",
+    "Name": "Graphics",
+    "Sequence": "0",
+    "Status": "Active",
+    "StepValue": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AABXH00000002djt0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Object": "UsageResource",
+  "Fields": {
+    "Category": "Usage",
+    "Code": "API001",
+    "Description": "",
+    "GearsetDisplayName": "API Calls",
+    "GearsetExternalId__c": "UAGRlF00000002dRB1",
+    "Name": "API Calls",
+    "Status": "Active"
+  },
+  "References": [
+    {
+      "Name": "DefaultUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEavS00000002dEh0"
+      }
+    },
+    {
+      "Name": "UnitOfMeasureClass",
+      "ReferencedObject": "UnitOfMeasureClass",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAG5zE00000002dQB1"
+      }
+    },
+    {
+      "Name": "UsageDefinitionProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "UsageResourceBillingPolicy",
+      "ReferencedObject": "UsageResourceBillingPolicy",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAr8800000002dfc1"
+      }
+    }
+  ]
+}

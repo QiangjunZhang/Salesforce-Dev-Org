@@ -1,0 +1,30 @@
+{
+  "Object": "ProductComponentGroup",
+  "Fields": {
+    "Code": "CS001012",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "LLM Certifications",
+    "GearsetExternalId__c": "AAAhy800000002d7y0",
+    "MaxBundleComponents": "",
+    "MinBundleComponents": "",
+    "Name": "LLM Certifications",
+    "Sequence": "2"
+  },
+  "References": [
+    {
+      "Name": "ParentGroup",
+      "ReferencedObject": "ProductComponentGroup",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAATy800000002d7y0"
+      }
+    },
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAA3VHb6000002dt10"
+      }
+    }
+  ]
+}

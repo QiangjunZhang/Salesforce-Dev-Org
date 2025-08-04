@@ -1,0 +1,35 @@
+{
+  "Object": "ProductQualification",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "EffectiveFromDate": "2025-07-04",
+    "EffectiveToDate": "2025-10-12",
+    "GearsetDisplayName": "IAE9Ohh3000002dC31",
+    "GearsetExternalId__c": "IAE9Ohh3000002dC31",
+    "MaxNumberOfEmployees__c": "",
+    "MinNumberOfEmployees__c": ""
+  },
+  "References": [
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAziT49000002dt10"
+      }
+    },
+    {
+      "Name": "RootProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

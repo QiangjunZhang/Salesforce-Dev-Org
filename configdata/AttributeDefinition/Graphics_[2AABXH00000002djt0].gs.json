@@ -1,0 +1,29 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Graphics",
+    "GearsetDisplayName": "Graphics",
+    "GearsetExternalId__c": "2AABXH00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "Graphics",
+    "Name": "Graphics",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

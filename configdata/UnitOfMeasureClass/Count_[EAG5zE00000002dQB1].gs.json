@@ -1,0 +1,28 @@
+{
+  "Object": "UnitOfMeasureClass",
+  "Fields": {
+    "Code": "COUNT003",
+    "Description": "",
+    "GearsetDisplayName": "Count",
+    "GearsetExternalId__c": "EAG5zE00000002dQB1",
+    "Name": "Count",
+    "Status": "Active",
+    "Type": "Usage"
+  },
+  "References": [
+    {
+      "Name": "BaseUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEkvS00000002dEh0"
+      }
+    },
+    {
+      "Name": "DefaultUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEkvS00000002dEh0"
+      }
+    }
+  ]
+}

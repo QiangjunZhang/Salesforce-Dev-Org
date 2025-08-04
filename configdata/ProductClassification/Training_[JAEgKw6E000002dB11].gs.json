@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "TL001",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Training",
+    "GearsetExternalId__c": "JAEgKw6E000002dB11",
+    "Name": "Training",
+    "Status": "Active"
+  },
+  "References": []
+}

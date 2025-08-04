@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "STO",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Storage",
+    "GearsetExternalId__c": "EAArkG00000002d3v0",
+    "Name": "Storage"
+  },
+  "References": []
+}

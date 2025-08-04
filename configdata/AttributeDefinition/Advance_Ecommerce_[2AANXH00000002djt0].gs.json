@@ -1,0 +1,29 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Checkbox",
+    "DefaultHelpText": "",
+    "DefaultValue": "false",
+    "Description": "",
+    "DeveloperName": "Advance_Ecommerce",
+    "GearsetDisplayName": "Advance Ecommerce",
+    "GearsetExternalId__c": "2AANXH00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "Advance Ecommerce",
+    "Name": "Advance Ecommerce",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

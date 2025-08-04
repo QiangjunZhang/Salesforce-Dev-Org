@@ -1,0 +1,42 @@
+{
+  "Object": "ProductClassificationAttr",
+  "Fields": {
+    "AttributeNameOverride": "Support Level",
+    "CurrencyIsoCode": "GBP",
+    "DefaultValue": "Premium Support",
+    "Description": "",
+    "DisplayType": "",
+    "GearsetDisplayName": "Support Level",
+    "GearsetExternalId__c": "CAEfukJp000002dC11",
+    "HelpText": "",
+    "IsHidden": "false",
+    "IsPriceImpacting": "false",
+    "IsReadOnly": "false",
+    "IsRequired": "false",
+    "MaximumCharacterCount": "",
+    "MaximumValue": "",
+    "MinimumCharacterCount": "",
+    "MinimumValue": "",
+    "Name": "Support Level",
+    "Sequence": "",
+    "Status": "Active",
+    "StepValue": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AAHXH00000002djt0"
+      }
+    },
+    {
+      "Name": "ProductClassification",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "JAEhKw6E000002dB11"
+      }
+    }
+  ]
+}

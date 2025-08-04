@@ -1,0 +1,37 @@
+{
+  "Object": "AttributeAdjustmentCondition",
+  "Fields": {
+    "BooleanValue": "",
+    "DateTimeValue": "",
+    "DateValue": "",
+    "DoubleValue": "",
+    "GearsetDisplayName": "QAEMoq00000002dF21",
+    "GearsetExternalId__c": "QAEMoq00000002dF21",
+    "IntegerValue": "",
+    "Operator": "equals",
+    "StringValue": "Cloud Storage Enterprise - 6 TB"
+  },
+  "References": [
+    {
+      "Name": "AttributeBasedAdjRule",
+      "ReferencedObject": "AttributeBasedAdjRule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAEqVZ00000002dH21"
+      }
+    },
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AAGXH00000002djt0"
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAtUHb6000002dt10"
+      }
+    }
+  ]
+}

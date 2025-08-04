@@ -1,0 +1,10 @@
+{
+  "Object": "ProrationPolicy",
+  "Fields": {
+    "GearsetDisplayName": "JulietProrationPolicy",
+    "Name": "JulietProrationPolicy",
+    "ProrationPolicyType": "StandardTimePeriods",
+    "RemainderStrategy": "AddToFirst"
+  },
+  "References": []
+}

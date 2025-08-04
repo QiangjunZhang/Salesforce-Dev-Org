@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "P001",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Paper",
+    "GearsetExternalId__c": "JAEdKw6E000002dB11",
+    "Name": "Paper",
+    "Status": "Active"
+  },
+  "References": []
+}

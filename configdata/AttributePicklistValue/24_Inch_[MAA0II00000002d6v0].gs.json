@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "24IN",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "24 Inch",
+    "GearsetDisplayName": "24 Inch",
+    "GearsetExternalId__c": "MAA0II00000002d6v0",
+    "IsDefault": "false",
+    "Name": "24 Inch",
+    "Sequence": "3.0",
+    "Status": "Draft",
+    "Value": "24 Inch"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAgnL00000002d5v0"
+      }
+    }
+  ]
+}

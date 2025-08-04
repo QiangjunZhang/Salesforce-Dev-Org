@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "REG",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Registers",
+    "GearsetExternalId__c": "JAEmKw6E000002dB11",
+    "Name": "Registers",
+    "Status": "Active"
+  },
+  "References": []
+}

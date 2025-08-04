@@ -1,0 +1,37 @@
+{
+  "Object": "AttributeAdjustmentCondition",
+  "Fields": {
+    "BooleanValue": "",
+    "DateTimeValue": "",
+    "DateValue": "",
+    "DoubleValue": "",
+    "GearsetDisplayName": "QAEFoq00000002dF21",
+    "GearsetExternalId__c": "QAEFoq00000002dF21",
+    "IntegerValue": "",
+    "Operator": "equals",
+    "StringValue": "Inkjet"
+  },
+  "References": [
+    {
+      "Name": "AttributeBasedAdjRule",
+      "ReferencedObject": "AttributeBasedAdjRule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAEjVZ00000002dH21"
+      }
+    },
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AAEXH00000002djt0"
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAApUHb6000002dt10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "CSE - 6TB",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Cloud Storage Enterprise - 6 TB",
+    "GearsetDisplayName": "Cloud Storage Enterprise - 6 TB",
+    "GearsetExternalId__c": "2AAKII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Cloud Storage Enterprise - 6 TB",
+    "Sequence": "6.0",
+    "Status": "Draft",
+    "Value": "Cloud Storage Enterprise - 6 TB"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAmnL00000002d5v0"
+      }
+    }
+  ]
+}

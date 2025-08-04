@@ -1,0 +1,22 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "RG0001",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Text",
+    "Description": "Region",
+    "GearsetDisplayName": "Region",
+    "GearsetExternalId__c": "EAArnL00000002d5v0",
+    "Name": "Region",
+    "Status": "Active"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

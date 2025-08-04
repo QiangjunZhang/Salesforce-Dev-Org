@@ -1,0 +1,35 @@
+{
+  "Object": "ProductAttributeDefinition",
+  "Fields": {
+    "AttributeNameOverride": "Screen Size",
+    "CurrencyIsoCode": "GBP",
+    "DefaultValue": "13 Inch",
+    "Description": "",
+    "DisplayType": "",
+    "GearsetDisplayName": "Screen Size",
+    "GearsetExternalId__c": "IAAoY800000002d7v0",
+    "HelpText": "",
+    "IsHidden": "false",
+    "IsPriceImpacting": "true",
+    "IsReadOnly": "false",
+    "IsRequired": "true",
+    "MaximumCharacterCount": "",
+    "MaximumValue": "",
+    "MinimumCharacterCount": "",
+    "MinimumValue": "",
+    "Name": "Screen Size",
+    "Sequence": "0",
+    "Status": "Active",
+    "StepValue": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AAAXH00000002djt0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Object": "AttributeAdjustmentCondition",
+  "Fields": {
+    "BooleanValue": "",
+    "DateTimeValue": "",
+    "DateValue": "",
+    "DoubleValue": "",
+    "GearsetDisplayName": "QAEJoq00000002dF21",
+    "GearsetExternalId__c": "QAEJoq00000002dF21",
+    "IntegerValue": "",
+    "Operator": "equals",
+    "StringValue": "Software Training"
+  },
+  "References": [
+    {
+      "Name": "AttributeBasedAdjRule",
+      "ReferencedObject": "AttributeBasedAdjRule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAEnVZ00000002dH21"
+      }
+    },
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAA9XH00000002djt0"
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAArUHb6000002dt10"
+      }
+    }
+  ]
+}

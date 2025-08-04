@@ -1,0 +1,37 @@
+{
+  "Object": "PriceAdjustmentTier",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "EffectiveFrom": "2023-12-01T20:00:00.000Z",
+    "EffectiveTo": "",
+    "GearsetDisplayName": "QAEBqcm3000002dY48",
+    "GearsetExternalId__c": "QAEBqcm3000002dY48",
+    "LowerBound": "16.0",
+    "TierType": "AdjustmentPercentage",
+    "TierValue": "20.0",
+    "UpperBound": ""
+  },
+  "References": [
+    {
+      "Name": "PriceAdjustmentSchedule",
+      "ReferencedObject": "PriceAdjustmentSchedule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAE6rz10000002dX48"
+      }
+    },
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAuUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "ProductSellingModel",
+      "ReferencedObject": "ProductSellingModel",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAEA0900000002dPj0"
+      }
+    }
+  ]
+}

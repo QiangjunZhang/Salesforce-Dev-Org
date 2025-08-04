@@ -1,0 +1,30 @@
+{
+  "Object": "ProductComponentGroup",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Laptop",
+    "GearsetExternalId__c": "QAAVy800000002d7y0",
+    "MaxBundleComponents": "",
+    "MinBundleComponents": "",
+    "Name": "Laptop",
+    "Sequence": "1"
+  },
+  "References": [
+    {
+      "Name": "ParentGroup",
+      "ReferencedObject": "ProductComponentGroup",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAgUHb6000002dt10"
+      }
+    }
+  ]
+}

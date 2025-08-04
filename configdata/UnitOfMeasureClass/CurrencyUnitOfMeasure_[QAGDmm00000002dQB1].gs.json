@@ -1,0 +1,28 @@
+{
+  "Object": "UnitOfMeasureClass",
+  "Fields": {
+    "Code": "CUOM",
+    "Description": "",
+    "GearsetDisplayName": "CurrencyUnitOfMeasure",
+    "GearsetExternalId__c": "QAGDmm00000002dQB1",
+    "Name": "CurrencyUnitOfMeasure",
+    "Status": "Draft",
+    "Type": "Usage"
+  },
+  "References": [
+    {
+      "Name": "BaseUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "DefaultUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "UAEFbV10000002dEh0"
+      }
+    }
+  ]
+}

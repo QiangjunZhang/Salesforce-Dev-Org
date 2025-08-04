@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "L001",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Letter",
+    "GearsetDisplayName": "Letter",
+    "GearsetExternalId__c": "MAA9II00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Letter",
+    "Sequence": "1.0",
+    "Status": "Draft",
+    "Value": "Letter"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAjnL00000002d5v0"
+      }
+    }
+  ]
+}

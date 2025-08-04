@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "MEM",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Memory",
+    "GearsetExternalId__c": "EAAokG00000002d3v0",
+    "Name": "Memory"
+  },
+  "References": []
+}

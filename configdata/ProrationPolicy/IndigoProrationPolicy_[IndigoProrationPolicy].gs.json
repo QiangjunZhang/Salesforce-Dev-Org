@@ -1,0 +1,10 @@
+{
+  "Object": "ProrationPolicy",
+  "Fields": {
+    "GearsetDisplayName": "IndigoProrationPolicy",
+    "Name": "IndigoProrationPolicy",
+    "ProrationPolicyType": "StandardTimePeriods",
+    "RemainderStrategy": "AddToLast"
+  },
+  "References": []
+}

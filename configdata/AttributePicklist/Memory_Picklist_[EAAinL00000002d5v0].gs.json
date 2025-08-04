@@ -1,0 +1,22 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "MEM001",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Memory Picklist",
+    "GearsetExternalId__c": "EAAinL00000002d5v0",
+    "Name": "Memory Picklist",
+    "Status": "Draft"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

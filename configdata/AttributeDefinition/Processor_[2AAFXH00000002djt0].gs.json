@@ -1,0 +1,29 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Processor",
+    "GearsetDisplayName": "Processor",
+    "GearsetExternalId__c": "2AAFXH00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "true",
+    "Label": "Processor",
+    "Name": "Processor",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

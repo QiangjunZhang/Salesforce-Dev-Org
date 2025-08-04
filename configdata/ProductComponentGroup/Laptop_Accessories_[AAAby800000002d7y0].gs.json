@@ -1,0 +1,30 @@
+{
+  "Object": "ProductComponentGroup",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Laptop Accessories",
+    "GearsetExternalId__c": "AAAby800000002d7y0",
+    "MaxBundleComponents": "",
+    "MinBundleComponents": "",
+    "Name": "Laptop Accessories",
+    "Sequence": "0"
+  },
+  "References": [
+    {
+      "Name": "ParentGroup",
+      "ReferencedObject": "ProductComponentGroup",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAA6VHb6000002dt10"
+      }
+    }
+  ]
+}

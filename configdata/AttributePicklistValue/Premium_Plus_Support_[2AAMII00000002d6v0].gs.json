@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "Premium Plus Support",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Premium Plus Support",
+    "GearsetDisplayName": "Premium Plus Support",
+    "GearsetExternalId__c": "2AAMII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Premium Plus Support",
+    "Sequence": "2.0",
+    "Status": "Draft",
+    "Value": "Premium Plus Support"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAnnL00000002d5v0"
+      }
+    }
+  ]
+}

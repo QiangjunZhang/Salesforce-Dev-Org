@@ -1,0 +1,35 @@
+{
+  "Object": "ProductAttributeDefinition",
+  "Fields": {
+    "AttributeNameOverride": "Wireless",
+    "CurrencyIsoCode": "GBP",
+    "DefaultValue": "false",
+    "Description": "",
+    "DisplayType": "",
+    "GearsetDisplayName": "Wireless",
+    "GearsetExternalId__c": "IAAsY800000002d7v0",
+    "HelpText": "",
+    "IsHidden": "false",
+    "IsPriceImpacting": "true",
+    "IsReadOnly": "false",
+    "IsRequired": "false",
+    "MaximumCharacterCount": "",
+    "MaximumValue": "",
+    "MinimumCharacterCount": "",
+    "MinimumValue": "",
+    "Name": "Wireless",
+    "Sequence": "0",
+    "Status": "Active",
+    "StepValue": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AAMXH00000002djt0"
+      }
+    }
+  ]
+}

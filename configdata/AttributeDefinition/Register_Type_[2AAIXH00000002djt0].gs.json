@@ -1,0 +1,29 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "Cash & Card",
+    "Description": "",
+    "DeveloperName": "Register_Type",
+    "GearsetDisplayName": "Register Type",
+    "GearsetExternalId__c": "2AAIXH00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "true",
+    "Label": "Type",
+    "Name": "Register Type",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

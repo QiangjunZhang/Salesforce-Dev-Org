@@ -1,0 +1,49 @@
+{
+  "Object": "RateCardEntry",
+  "Fields": {
+    "EffectiveFrom": "2024-10-08T19:00:00.000Z",
+    "EffectiveTo": "",
+    "GearsetDisplayName": "Data Transfers - API Access Premium - Term Based - Monthly",
+    "GearsetExternalId__c": "YAGKF800000002dJC1",
+    "Rate": "0.098765",
+    "RateNegotiation": "Negotiable",
+    "Status": "Active"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAA1VHb6000002dt10"
+      }
+    },
+    {
+      "Name": "ProductSellingModel",
+      "ReferencedObject": "ProductSellingModel",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAEB0900000002dPj0"
+      }
+    },
+    {
+      "Name": "RateCard",
+      "ReferencedObject": "RateCard",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "YAGJF800000002dIC1"
+      }
+    },
+    {
+      "Name": "RateUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEjvS00000002dEh0"
+      }
+    },
+    {
+      "Name": "UsageResource",
+      "ReferencedObject": "UsageResource",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "UAGSlF00000002dRB1"
+      }
+    }
+  ]
+}

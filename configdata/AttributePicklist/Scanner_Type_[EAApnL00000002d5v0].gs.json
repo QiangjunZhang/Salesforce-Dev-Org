@@ -1,0 +1,22 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "S0001",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Text",
+    "Description": "Scanner Type",
+    "GearsetDisplayName": "Scanner Type",
+    "GearsetExternalId__c": "EAApnL00000002d5v0",
+    "Name": "Scanner Type",
+    "Status": "Active"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

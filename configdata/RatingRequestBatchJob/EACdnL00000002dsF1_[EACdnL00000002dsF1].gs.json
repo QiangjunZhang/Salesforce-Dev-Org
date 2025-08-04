@@ -1,0 +1,18 @@
+{
+  "Object": "RatingRequestBatchJob",
+  "Fields": {
+    "ErrorCode": "",
+    "ErrorMessage": "",
+    "GearsetDisplayName": "EACdnL00000002dsF1",
+    "GearsetExternalId__c": "EACdnL00000002dsF1"
+  },
+  "References": [
+    {
+      "Name": "RatingRequest",
+      "ReferencedObject": "RatingRequest",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MACpDR20000002drF1"
+      }
+    }
+  ]
+}

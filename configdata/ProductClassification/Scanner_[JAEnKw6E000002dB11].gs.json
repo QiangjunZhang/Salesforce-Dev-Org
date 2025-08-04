@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "SCNR",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Scanner",
+    "GearsetExternalId__c": "JAEnKw6E000002dB11",
+    "Name": "Scanner",
+    "Status": "Active"
+  },
+  "References": []
+}

@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "PRO",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Processor",
+    "GearsetExternalId__c": "EAApkG00000002d3v0",
+    "Name": "Processor"
+  },
+  "References": []
+}

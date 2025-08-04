@@ -1,0 +1,35 @@
+{
+  "Object": "ProductDisqualification",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "EffectiveFromDate": "2024-08-01",
+    "EffectiveToDate": "2026-11-01",
+    "GearsetDisplayName": "UAENpE00000002dM31",
+    "GearsetExternalId__c": "UAENpE00000002dM31",
+    "Industry__c": "Recreation",
+    "Reason": ""
+  },
+  "References": [
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAiUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAyUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "RootProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAiUHb6000002dt10"
+      }
+    }
+  ]
+}

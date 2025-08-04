@@ -1,0 +1,25 @@
+{
+  "Object": "ProductCategoryProduct",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "API Access Premium - Cloud Services",
+    "GearsetExternalId__c": "2AGPFZ10000002dRZ0",
+    "IsPrimaryCategory": "false"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAA1VHb6000002dt10"
+      }
+    },
+    {
+      "Name": "ProductCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAGfwp10000002dGZ0"
+      }
+    }
+  ]
+}

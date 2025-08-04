@@ -1,0 +1,25 @@
+{
+  "Object": "RatingFrequencyPolicy",
+  "Fields": {
+    "GearsetDisplayName": "MAGpLH00000002dJH1",
+    "GearsetExternalId__c": "MAGpLH00000002dJH1",
+    "RatingDelayDuration": "69",
+    "RatingPeriod": "Daily"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAtUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "UsageResource",
+      "ReferencedObject": "UsageResource",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "UAGRlF00000002dRB1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "DIS",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Display",
+    "GearsetExternalId__c": "EAAqkG00000002d3v0",
+    "Name": "Display"
+  },
+  "References": []
+}

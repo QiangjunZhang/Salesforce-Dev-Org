@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "Handheld",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Handheld",
+    "GearsetDisplayName": "Handheld",
+    "GearsetExternalId__c": "2AAQII00000002d6v0",
+    "IsDefault": "true",
+    "Name": "Handheld",
+    "Sequence": "1.0",
+    "Status": "Active",
+    "Value": "Handheld"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAApnL00000002d5v0"
+      }
+    }
+  ]
+}

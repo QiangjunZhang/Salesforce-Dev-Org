@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "ACTVN",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Activation",
+    "GearsetExternalId__c": "JAErKw6E000002dB11",
+    "Name": "Activation",
+    "Status": "Active"
+  },
+  "References": []
+}

@@ -1,0 +1,28 @@
+{
+  "Object": "UnitOfMeasureClass",
+  "Fields": {
+    "Code": "SMS006",
+    "Description": "",
+    "GearsetDisplayName": "SMS",
+    "GearsetExternalId__c": "EAG8zE00000002dQB1",
+    "Name": "SMS",
+    "Status": "Active",
+    "Type": ""
+  },
+  "References": [
+    {
+      "Name": "BaseUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEbvS00000002dEh0"
+      }
+    },
+    {
+      "Name": "DefaultUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEbvS00000002dEh0"
+      }
+    }
+  ]
+}

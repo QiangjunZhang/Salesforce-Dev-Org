@@ -1,0 +1,28 @@
+{
+  "Object": "UnitOfMeasureClass",
+  "Fields": {
+    "Code": "CALLUNITS01",
+    "Description": "",
+    "GearsetDisplayName": "Call Units",
+    "GearsetExternalId__c": "EAG3zE00000002dQB1",
+    "Name": "Call Units",
+    "Status": "Active",
+    "Type": ""
+  },
+  "References": [
+    {
+      "Name": "BaseUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEgvS00000002dEh0"
+      }
+    },
+    {
+      "Name": "DefaultUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEgvS00000002dEh0"
+      }
+    }
+  ]
+}

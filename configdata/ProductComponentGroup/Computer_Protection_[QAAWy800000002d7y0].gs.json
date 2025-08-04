@@ -1,0 +1,30 @@
+{
+  "Object": "ProductComponentGroup",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Computer Protection",
+    "GearsetExternalId__c": "QAAWy800000002d7y0",
+    "MaxBundleComponents": "",
+    "MinBundleComponents": "",
+    "Name": "Computer Protection",
+    "Sequence": "2"
+  },
+  "References": [
+    {
+      "Name": "ParentGroup",
+      "ReferencedObject": "ProductComponentGroup",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAgUHb6000002dt10"
+      }
+    }
+  ]
+}

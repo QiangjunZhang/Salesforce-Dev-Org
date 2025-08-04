@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "T001",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Training",
+    "GearsetExternalId__c": "EAAmkG00000002d3v0",
+    "Name": "Training"
+  },
+  "References": []
+}

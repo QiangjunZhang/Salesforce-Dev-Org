@@ -1,0 +1,42 @@
+{
+  "Object": "BundleBasedAdjustment",
+  "Fields": {
+    "AdjustmentType": "Percentage",
+    "AdjustmentValue": "10.0",
+    "CurrencyIsoCode": "GBP",
+    "EffectiveFrom": "2024-07-10T19:00:00.000Z",
+    "EffectiveTo": "",
+    "GearsetDisplayName": "QAEY8xi4000002dT51",
+    "GearsetExternalId__c": "QAEY8xi4000002dT51"
+  },
+  "References": [
+    {
+      "Name": "ParentProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAhUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "PriceAdjustmentSchedule",
+      "ReferencedObject": "PriceAdjustmentSchedule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAE4rz10000002dX48"
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAjUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "RootBundle",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAhUHb6000002dt10"
+      }
+    }
+  ]
+}

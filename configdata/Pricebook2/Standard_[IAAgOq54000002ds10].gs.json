@@ -1,0 +1,22 @@
+{
+  "Object": "Pricebook2",
+  "Fields": {
+    "CurrencyIsoCode": "USD",
+    "Description": "",
+    "GearsetDisplayName": "Standard",
+    "GearsetExternalId__c": "IAAgOq54000002ds10",
+    "IsActive": "false",
+    "Name": "Standard",
+    "ValidFrom": "",
+    "ValidTo": ""
+  },
+  "References": [
+    {
+      "Name": "CostBook",
+      "ReferencedObject": "CostBook",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

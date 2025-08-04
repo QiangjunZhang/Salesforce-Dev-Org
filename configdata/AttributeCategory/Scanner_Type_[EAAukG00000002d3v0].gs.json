@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "SCNTYP",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Scanner Type",
+    "GearsetExternalId__c": "EAAukG00000002d3v0",
+    "Name": "Scanner Type"
+  },
+  "References": []
+}

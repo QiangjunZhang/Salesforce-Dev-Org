@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "SHIPR",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Shipper",
+    "GearsetExternalId__c": "JAEqKw6E000002dB11",
+    "Name": "Shipper",
+    "Status": "Active"
+  },
+  "References": []
+}

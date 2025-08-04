@@ -1,0 +1,24 @@
+{
+  "Object": "AttributeCategoryAttribute",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Graphics - Graphics",
+    "GearsetExternalId__c": "IAEdMs80000002dE11"
+  },
+  "References": [
+    {
+      "Name": "AttributeCategory",
+      "ReferencedObject": "AttributeCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAlkG00000002d3v0"
+      }
+    },
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AABXH00000002djt0"
+      }
+    }
+  ]
+}

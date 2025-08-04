@@ -1,0 +1,27 @@
+{
+  "Object": "PricebookEntry",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Standard Price Book - Lucidchart - GBP",
+    "GearsetExternalId__c": "MAA4IOd1000002du10",
+    "IsActive": "true",
+    "UnitPrice": "0.0",
+    "UseStandardPrice": "false"
+  },
+  "References": [
+    {
+      "Name": "Pricebook2",
+      "ReferencedObject": "Pricebook2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "StandardPriceBook"
+      }
+    },
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAoUHb6000002dt10"
+      }
+    }
+  ]
+}

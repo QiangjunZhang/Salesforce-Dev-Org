@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "OFPOS",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Offline POS",
+    "GearsetDisplayName": "Offline POS",
+    "GearsetExternalId__c": "2AASII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Offline POS",
+    "Sequence": "2.0",
+    "Status": "Active",
+    "Value": "Offline POS"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAqnL00000002d5v0"
+      }
+    }
+  ]
+}

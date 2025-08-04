@@ -1,0 +1,27 @@
+{
+  "Object": "PricebookEntry",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Standard Price Book - Keyboard - GBP",
+    "GearsetExternalId__c": "2AAJIOd1000002du10",
+    "IsActive": "true",
+    "UnitPrice": "14.99",
+    "UseStandardPrice": "false"
+  },
+  "References": [
+    {
+      "Name": "Pricebook2",
+      "ReferencedObject": "Pricebook2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "StandardPriceBook"
+      }
+    },
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAqUHb6000002dt10"
+      }
+    }
+  ]
+}

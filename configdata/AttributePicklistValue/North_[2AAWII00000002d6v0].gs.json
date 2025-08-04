@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "North",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "North",
+    "GearsetDisplayName": "North",
+    "GearsetExternalId__c": "2AAWII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "North",
+    "Sequence": "1.0",
+    "Status": "Active",
+    "Value": "North"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAArnL00000002d5v0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Object": "ProductCatalog",
+  "Fields": {
+    "CatalogType": "Sales",
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "EffectiveEndDate": "",
+    "EffectiveStartDate": "",
+    "GearsetDisplayName": "Service Catalog",
+    "GearsetExternalId__c": "YAGVUa10000002dSZ0",
+    "Name": "Service Catalog"
+  },
+  "References": []
+}

@@ -1,0 +1,10 @@
+{
+  "Object": "ProductRelationshipType",
+  "Fields": {
+    "GearsetDisplayName": "Set to Set Component Relationship",
+    "GearsetExternalId__c": "YAATRp20000002doy0",
+    "MainProductRoleCat": "Set",
+    "Name": "Set to Set Component Relationship"
+  },
+  "References": []
+}

@@ -1,0 +1,28 @@
+{
+  "Object": "UnitOfMeasureClass",
+  "Fields": {
+    "Code": "CASE002",
+    "Description": "",
+    "GearsetDisplayName": "Case",
+    "GearsetExternalId__c": "EAG4zE00000002dQB1",
+    "Name": "Case",
+    "Status": "Active",
+    "Type": ""
+  },
+  "References": [
+    {
+      "Name": "BaseUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEcvS00000002dEh0"
+      }
+    },
+    {
+      "Name": "DefaultUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEcvS00000002dEh0"
+      }
+    }
+  ]
+}

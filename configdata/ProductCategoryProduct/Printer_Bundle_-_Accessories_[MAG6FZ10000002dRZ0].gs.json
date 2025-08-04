@@ -1,0 +1,25 @@
+{
+  "Object": "ProductCategoryProduct",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Printer Bundle - Accessories",
+    "GearsetExternalId__c": "MAG6FZ10000002dRZ0",
+    "IsPrimaryCategory": "false"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAiUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "ProductCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAGbwp10000002dGZ0"
+      }
+    }
+  ]
+}

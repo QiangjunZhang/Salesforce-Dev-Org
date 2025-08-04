@@ -1,0 +1,42 @@
+{
+  "Object": "UsageResource",
+  "Fields": {
+    "Category": "Token",
+    "Code": "TCUR",
+    "Description": "",
+    "GearsetDisplayName": "TotallyCustomUsageResource",
+    "GearsetExternalId__c": "QAGXwc00000002dRB1",
+    "Name": "TotallyCustomUsageResource",
+    "Status": "Draft"
+  },
+  "References": [
+    {
+      "Name": "DefaultUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AELOV10000002dEh0"
+      }
+    },
+    {
+      "Name": "UnitOfMeasureClass",
+      "ReferencedObject": "UnitOfMeasureClass",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "YAGJZm00000002dQB1"
+      }
+    },
+    {
+      "Name": "UsageDefinitionProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAziT49000002dt10"
+      }
+    },
+    {
+      "Name": "UsageResourceBillingPolicy",
+      "ReferencedObject": "UsageResourceBillingPolicy",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AANXS00000002dfc1"
+      }
+    }
+  ]
+}

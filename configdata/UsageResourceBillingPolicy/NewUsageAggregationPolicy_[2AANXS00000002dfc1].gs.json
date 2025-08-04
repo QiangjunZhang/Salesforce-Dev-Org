@@ -1,0 +1,13 @@
+{
+  "Object": "UsageResourceBillingPolicy",
+  "Fields": {
+    "Code": "NUAP",
+    "GearsetDisplayName": "NewUsageAggregationPolicy",
+    "GearsetExternalId__c": "2AANXS00000002dfc1",
+    "Name": "NewUsageAggregationPolicy",
+    "Status": "Draft",
+    "UsageAccumulationMethod": "Peak",
+    "UsageAccumulationPeriod": ""
+  },
+  "References": []
+}

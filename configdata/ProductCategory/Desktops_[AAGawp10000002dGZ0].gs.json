@@ -1,0 +1,29 @@
+{
+  "Object": "ProductCategory",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Desktops",
+    "GearsetExternalId__c": "AAGawp10000002dGZ0",
+    "IsNavigational": "true",
+    "Name": "Desktops",
+    "SortOrder": ""
+  },
+  "References": [
+    {
+      "Name": "Catalog",
+      "ReferencedObject": "ProductCatalog",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "YAGUUa10000002dSZ0"
+      }
+    },
+    {
+      "Name": "ParentCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

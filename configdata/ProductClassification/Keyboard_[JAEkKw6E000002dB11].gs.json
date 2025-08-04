@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "KB001",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Keyboard",
+    "GearsetExternalId__c": "JAEkKw6E000002dB11",
+    "Name": "Keyboard",
+    "Status": "Active"
+  },
+  "References": []
+}

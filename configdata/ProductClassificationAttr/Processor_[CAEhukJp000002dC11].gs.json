@@ -1,0 +1,42 @@
+{
+  "Object": "ProductClassificationAttr",
+  "Fields": {
+    "AttributeNameOverride": "Processor",
+    "CurrencyIsoCode": "GBP",
+    "DefaultValue": "i5-CPU 4.4GHz",
+    "Description": "",
+    "DisplayType": "",
+    "GearsetDisplayName": "Processor",
+    "GearsetExternalId__c": "CAEhukJp000002dC11",
+    "HelpText": "",
+    "IsHidden": "false",
+    "IsPriceImpacting": "false",
+    "IsReadOnly": "false",
+    "IsRequired": "true",
+    "MaximumCharacterCount": "",
+    "MaximumValue": "",
+    "MinimumCharacterCount": "",
+    "MinimumValue": "",
+    "Name": "Processor",
+    "Sequence": "",
+    "Status": "Active",
+    "StepValue": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AAFXH00000002djt0"
+      }
+    },
+    {
+      "Name": "ProductClassification",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "JAEfKw6E000002dB11"
+      }
+    }
+  ]
+}

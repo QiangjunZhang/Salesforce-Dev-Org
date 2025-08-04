@@ -1,0 +1,10 @@
+{
+  "Object": "ProrationPolicy",
+  "Fields": {
+    "GearsetDisplayName": "FoxtrotProrationPollicy",
+    "Name": "FoxtrotProrationPollicy",
+    "ProrationPolicyType": "StandardTimePeriods",
+    "RemainderStrategy": "AddToFirst"
+  },
+  "References": []
+}

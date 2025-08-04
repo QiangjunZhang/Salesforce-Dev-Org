@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "P001",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Printer",
+    "GearsetExternalId__c": "EAAkkG00000002d3v0",
+    "Name": "Printer"
+  },
+  "References": []
+}

@@ -1,0 +1,13 @@
+{
+  "Object": "UsageResourceBillingPolicy",
+  "Fields": {
+    "Code": "URBP002",
+    "GearsetDisplayName": "Default Usage Resource Billing Policy",
+    "GearsetExternalId__c": "AAAr8800000002dfc1",
+    "Name": "Default Usage Resource Billing Policy",
+    "Status": "Active",
+    "UsageAccumulationMethod": "Event",
+    "UsageAccumulationPeriod": ""
+  },
+  "References": []
+}

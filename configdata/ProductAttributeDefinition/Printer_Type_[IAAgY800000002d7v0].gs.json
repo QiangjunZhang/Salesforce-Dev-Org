@@ -1,0 +1,35 @@
+{
+  "Object": "ProductAttributeDefinition",
+  "Fields": {
+    "AttributeNameOverride": "Printer Type",
+    "CurrencyIsoCode": "GBP",
+    "DefaultValue": "",
+    "Description": "",
+    "DisplayType": "",
+    "GearsetDisplayName": "Printer Type",
+    "GearsetExternalId__c": "IAAgY800000002d7v0",
+    "HelpText": "",
+    "IsHidden": "false",
+    "IsPriceImpacting": "true",
+    "IsReadOnly": "false",
+    "IsRequired": "false",
+    "MaximumCharacterCount": "",
+    "MaximumValue": "",
+    "MinimumCharacterCount": "",
+    "MinimumValue": "",
+    "Name": "Printer Type",
+    "Sequence": "0",
+    "Status": "Active",
+    "StepValue": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AAEXH00000002djt0"
+      }
+    }
+  ]
+}

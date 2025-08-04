@@ -1,0 +1,42 @@
+{
+  "Object": "ProductClassificationAttr",
+  "Fields": {
+    "AttributeNameOverride": "MyCustomAttribute02",
+    "CurrencyIsoCode": "GBP",
+    "DefaultValue": "",
+    "Description": "",
+    "DisplayType": "",
+    "GearsetDisplayName": "MyCustomAttribute02",
+    "GearsetExternalId__c": "VAEN8N7T100002dC11",
+    "HelpText": "",
+    "IsHidden": "false",
+    "IsPriceImpacting": "false",
+    "IsReadOnly": "false",
+    "IsRequired": "false",
+    "MaximumCharacterCount": "",
+    "MaximumValue": "",
+    "MinimumCharacterCount": "",
+    "MinimumValue": "",
+    "Name": "MyCustomAttribute02",
+    "Sequence": "",
+    "Status": "Active",
+    "StepValue": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAfao10000002djt0"
+      }
+    },
+    {
+      "Name": "ProductClassification",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "DAEdzvOP000002dB11"
+      }
+    }
+  ]
+}

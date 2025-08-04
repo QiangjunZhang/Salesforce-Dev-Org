@@ -1,0 +1,42 @@
+{
+  "Object": "ProductClassificationAttr",
+  "Fields": {
+    "AttributeNameOverride": "Graphics",
+    "CurrencyIsoCode": "GBP",
+    "DefaultValue": "",
+    "Description": "",
+    "DisplayType": "",
+    "GearsetDisplayName": "Graphics",
+    "GearsetExternalId__c": "CAEdukJp000002dC11",
+    "HelpText": "",
+    "IsHidden": "false",
+    "IsPriceImpacting": "false",
+    "IsReadOnly": "false",
+    "IsRequired": "false",
+    "MaximumCharacterCount": "",
+    "MaximumValue": "",
+    "MinimumCharacterCount": "",
+    "MinimumValue": "",
+    "Name": "Graphics",
+    "Sequence": "",
+    "Status": "Active",
+    "StepValue": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "AttributeDefinition",
+      "ReferencedObject": "AttributeDefinition",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "2AABXH00000002djt0"
+      }
+    },
+    {
+      "Name": "ProductClassification",
+      "ReferencedObject": "ProductClassification",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "JAEfKw6E000002dB11"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Object": "ProductCatalog",
+  "Fields": {
+    "CatalogType": "Sales",
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "EffectiveEndDate": "",
+    "EffectiveStartDate": "",
+    "GearsetDisplayName": "Drinks",
+    "GearsetExternalId__c": "QAGRpb30000002dSZ0",
+    "Name": "Drinks"
+  },
+  "References": []
+}

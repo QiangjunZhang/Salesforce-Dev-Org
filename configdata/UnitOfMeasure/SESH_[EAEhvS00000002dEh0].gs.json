@@ -1,0 +1,26 @@
+{
+  "Object": "UnitOfMeasure",
+  "Fields": {
+    "ConversionFactor": "1.0",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "SESH",
+    "GearsetExternalId__c": "EAEhvS00000002dEh0",
+    "Name": "SESH",
+    "RoundingMethod": "",
+    "Scale": "",
+    "Sequence": "5",
+    "Status": "Active",
+    "Type": "Count",
+    "UnitCode": "SESH"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasureClass",
+      "ReferencedObject": "UnitOfMeasureClass",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAG5zE00000002dQB1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Object": "PricebookEntry",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "MyCustomPriceBook - CanOfMonster - GBP",
+    "GearsetExternalId__c": "2AABLIw2000002du10",
+    "IsActive": "true",
+    "UnitPrice": "69.69",
+    "UseStandardPrice": "false"
+  },
+  "References": [
+    {
+      "Name": "Pricebook2",
+      "ReferencedObject": "Pricebook2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "YAAXA2y5000002ds10"
+      }
+    },
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "BAAprciA000002dt10"
+      }
+    }
+  ]
+}

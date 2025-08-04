@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "Mobile POS",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Mobile POS",
+    "GearsetDisplayName": "Mobile POS",
+    "GearsetExternalId__c": "2AAUII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Mobile POS",
+    "Sequence": "4.0",
+    "Status": "Active",
+    "Value": "Mobile POS"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAqnL00000002d5v0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "STPICK002",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Text",
+    "Description": "Subscription Type",
+    "GearsetDisplayName": "Subscription Type",
+    "GearsetExternalId__c": "EAAdnL00000002d5v0",
+    "Name": "Subscription Type",
+    "Status": "Active"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

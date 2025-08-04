@@ -1,0 +1,29 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Number",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "MyCustomAttribute02",
+    "GearsetDisplayName": "MyCustomAttribute02",
+    "GearsetExternalId__c": "AAAfao10000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "MyCustomAttribute02",
+    "Name": "MyCustomAttribute02",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

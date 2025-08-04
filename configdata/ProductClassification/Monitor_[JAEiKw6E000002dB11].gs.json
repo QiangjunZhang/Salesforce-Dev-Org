@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "MN001",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Monitor",
+    "GearsetExternalId__c": "JAEiKw6E000002dB11",
+    "Name": "Monitor",
+    "Status": "Active"
+  },
+  "References": []
+}

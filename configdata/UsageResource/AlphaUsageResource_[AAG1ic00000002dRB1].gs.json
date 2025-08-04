@@ -1,0 +1,42 @@
+{
+  "Object": "UsageResource",
+  "Fields": {
+    "Category": "Usage",
+    "Code": "ALPHA_UR",
+    "Description": "",
+    "GearsetDisplayName": "AlphaUsageResource",
+    "GearsetExternalId__c": "AAG1ic00000002dRB1",
+    "Name": "AlphaUsageResource",
+    "Status": "Draft"
+  },
+  "References": [
+    {
+      "Name": "DefaultUnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAEkvS00000002dEh0"
+      }
+    },
+    {
+      "Name": "UnitOfMeasureClass",
+      "ReferencedObject": "UnitOfMeasureClass",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAG5zE00000002dQB1"
+      }
+    },
+    {
+      "Name": "UsageDefinitionProduct",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "UsageResourceBillingPolicy",
+      "ReferencedObject": "UsageResourceBillingPolicy",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAr8800000002dfc1"
+      }
+    }
+  ]
+}

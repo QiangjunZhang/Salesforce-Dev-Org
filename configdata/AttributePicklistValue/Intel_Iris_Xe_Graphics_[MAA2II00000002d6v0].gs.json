@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "Intel Iris Xe Graphics",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Intel Iris Xe Graphics",
+    "GearsetDisplayName": "Intel Iris Xe Graphics",
+    "GearsetExternalId__c": "MAA2II00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Intel Iris Xe Graphics",
+    "Sequence": "1.0",
+    "Status": "Draft",
+    "Value": "Intel Iris Xe Graphics"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAhnL00000002d5v0"
+      }
+    }
+  ]
+}

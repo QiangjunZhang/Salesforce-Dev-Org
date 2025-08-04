@@ -1,0 +1,25 @@
+{
+  "Object": "RatingFrequencyPolicy",
+  "Fields": {
+    "GearsetDisplayName": "MAGfEI00000002dJH1",
+    "GearsetExternalId__c": "MAGfEI00000002dJH1",
+    "RatingDelayDuration": "",
+    "RatingPeriod": "Monthly"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAziT49000002dt10"
+      }
+    },
+    {
+      "Name": "UsageResource",
+      "ReferencedObject": "UsageResource",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAGXwc00000002dRB1"
+      }
+    }
+  ]
+}

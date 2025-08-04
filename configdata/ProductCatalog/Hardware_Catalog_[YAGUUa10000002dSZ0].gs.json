@@ -1,0 +1,15 @@
+{
+  "Object": "ProductCatalog",
+  "Fields": {
+    "CatalogType": "Sales",
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "EffectiveEndDate": "",
+    "EffectiveStartDate": "",
+    "GearsetDisplayName": "Hardware Catalog",
+    "GearsetExternalId__c": "YAGUUa10000002dSZ0",
+    "Name": "Hardware Catalog"
+  },
+  "References": []
+}

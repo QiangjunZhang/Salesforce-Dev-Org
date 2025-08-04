@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "GRA",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Graphics",
+    "GearsetExternalId__c": "EAAlkG00000002d3v0",
+    "Name": "Graphics"
+  },
+  "References": []
+}

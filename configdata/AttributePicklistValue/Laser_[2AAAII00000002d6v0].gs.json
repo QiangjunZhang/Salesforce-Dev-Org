@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "LS001",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Laser",
+    "GearsetDisplayName": "Laser",
+    "GearsetExternalId__c": "2AAAII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Laser",
+    "Sequence": "1.0",
+    "Status": "Draft",
+    "Value": "Laser"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAknL00000002d5v0"
+      }
+    }
+  ]
+}

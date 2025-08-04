@@ -1,0 +1,26 @@
+{
+  "Object": "UnitOfMeasure",
+  "Fields": {
+    "ConversionFactor": "1.0",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "USD",
+    "GearsetExternalId__c": "EAEjvS00000002dEh0",
+    "Name": "USD",
+    "RoundingMethod": "",
+    "Scale": "",
+    "Sequence": "1",
+    "Status": "Active",
+    "Type": "Cost",
+    "UnitCode": "USD"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasureClass",
+      "ReferencedObject": "UnitOfMeasureClass",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAG6zE00000002dQB1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "TRA001",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Text",
+    "Description": "",
+    "GearsetDisplayName": "Training Type Picklist",
+    "GearsetExternalId__c": "EAAfnL00000002d5v0",
+    "Name": "Training Type Picklist",
+    "Status": "Draft"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

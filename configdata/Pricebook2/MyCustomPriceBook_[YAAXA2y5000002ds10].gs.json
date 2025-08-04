@@ -1,0 +1,22 @@
+{
+  "Object": "Pricebook2",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "MyCustomPriceBook",
+    "GearsetExternalId__c": "YAAXA2y5000002ds10",
+    "IsActive": "true",
+    "Name": "MyCustomPriceBook",
+    "ValidFrom": "2025-06-01T11:00:00.000Z",
+    "ValidTo": "2025-07-31T11:00:00.000Z"
+  },
+  "References": [
+    {
+      "Name": "CostBook",
+      "ReferencedObject": "CostBook",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

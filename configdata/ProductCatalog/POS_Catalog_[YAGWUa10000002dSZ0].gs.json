@@ -1,0 +1,15 @@
+{
+  "Object": "ProductCatalog",
+  "Fields": {
+    "CatalogType": "Sales",
+    "Code": "PS001",
+    "CurrencyIsoCode": "GBP",
+    "Description": "Point of Sale Catalog",
+    "EffectiveEndDate": "",
+    "EffectiveStartDate": "",
+    "GearsetDisplayName": "POS Catalog",
+    "GearsetExternalId__c": "YAGWUa10000002dSZ0",
+    "Name": "POS Catalog"
+  },
+  "References": []
+}

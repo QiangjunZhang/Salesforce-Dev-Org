@@ -1,0 +1,10 @@
+{
+  "Object": "AttributeBasedAdjRule",
+  "Fields": {
+    "GearsetDisplayName": "Rule_1722928150227",
+    "GearsetExternalId__c": "MAEfVZ00000002dH21",
+    "Name": "Rule_1722928150227",
+    "UsageType": ""
+  },
+  "References": []
+}

@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "i7-CPU 4.7GHz",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "i7-CPU 4.7GHz",
+    "GearsetDisplayName": "i7-CPU 4.7GHz",
+    "GearsetExternalId__c": "2AACII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "i7-CPU 4.7GHz",
+    "Sequence": "2.0",
+    "Status": "Draft",
+    "Value": "i7-CPU 4.7GHz"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAlnL00000002d5v0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Object": "ProductSellingModel",
+  "Fields": {
+    "GearsetDisplayName": "Term Based - Yearly",
+    "GearsetExternalId__c": "AAE90900000002dPj0",
+    "Name": "Term Based - Yearly",
+    "PricingTerm": "1",
+    "PricingTermUnit": "Annual",
+    "SellingModelType": "TermDefined",
+    "Status": "Active"
+  },
+  "References": []
+}

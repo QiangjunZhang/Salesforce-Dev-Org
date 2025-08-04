@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "CT001",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Connection Type",
+    "GearsetExternalId__c": "EAAskG00000002d3v0",
+    "Name": "Connection Type"
+  },
+  "References": []
+}

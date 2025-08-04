@@ -1,0 +1,27 @@
+{
+  "Object": "PricebookEntry",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Standard Price Book - USB C multiport adapter hub with 4K HDMI - GBP",
+    "GearsetExternalId__c": "MAAdIOd1000002du10",
+    "IsActive": "true",
+    "UnitPrice": "33.99",
+    "UseStandardPrice": "false"
+  },
+  "References": [
+    {
+      "Name": "Pricebook2",
+      "ReferencedObject": "Pricebook2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "StandardPriceBook"
+      }
+    },
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAkUHb6000002dt10"
+      }
+    }
+  ]
+}

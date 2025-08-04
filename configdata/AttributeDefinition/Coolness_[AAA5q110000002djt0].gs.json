@@ -1,0 +1,29 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Percent",
+    "DefaultHelpText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "DefaultValue": "69",
+    "Description": "Level of coolness.",
+    "DeveloperName": "Coolness",
+    "GearsetDisplayName": "Coolness",
+    "GearsetExternalId__c": "AAA5q110000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "Coolness",
+    "Name": "Coolness",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": "Cras sagittis, eros in volutpat vulputate, turpis leo semper nisl, eu malesuada arcu mi ut est."
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

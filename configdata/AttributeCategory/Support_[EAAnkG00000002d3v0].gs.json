@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "SP001",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Support",
+    "GearsetExternalId__c": "EAAnkG00000002d3v0",
+    "Name": "Support"
+  },
+  "References": []
+}

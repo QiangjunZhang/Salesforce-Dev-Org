@@ -1,0 +1,29 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Checkbox",
+    "DefaultHelpText": "",
+    "DefaultValue": "true",
+    "Description": "",
+    "DeveloperName": "MyCustomAttribute01",
+    "GearsetDisplayName": "MyCustomAttribute01",
+    "GearsetExternalId__c": "IAA3Zo10000002djt0",
+    "IsActive": "true",
+    "IsRequired": "false",
+    "Label": "MyCustomAttribute01",
+    "Name": "MyCustomAttribute01",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Object": "ProductCategoryProduct",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Lucidchart - Productivity Software",
+    "GearsetExternalId__c": "2AGCFZ10000002dRZ0",
+    "IsPrimaryCategory": "false"
+  },
+  "References": [
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAoUHb6000002dt10"
+      }
+    },
+    {
+      "Name": "ProductCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAGXwp10000002dGZ0"
+      }
+    }
+  ]
+}

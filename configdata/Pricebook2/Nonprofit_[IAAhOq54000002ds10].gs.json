@@ -1,0 +1,22 @@
+{
+  "Object": "Pricebook2",
+  "Fields": {
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Nonprofit",
+    "GearsetExternalId__c": "IAAhOq54000002ds10",
+    "IsActive": "true",
+    "Name": "Nonprofit",
+    "ValidFrom": "",
+    "ValidTo": ""
+  },
+  "References": [
+    {
+      "Name": "CostBook",
+      "ReferencedObject": "CostBook",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

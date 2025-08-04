@@ -1,0 +1,29 @@
+{
+  "Object": "AttributeDefinition",
+  "Fields": {
+    "Code": "SUBTYPE001",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "Business",
+    "Description": "Subscription Type - either Enterprise or Business",
+    "DeveloperName": "SubscriptionType",
+    "GearsetDisplayName": "Subscription Type",
+    "GearsetExternalId__c": "MAA7XH00000002djt0",
+    "IsActive": "true",
+    "IsRequired": "true",
+    "Label": "Subscription Type",
+    "Name": "Subscription Type",
+    "SourceSystemIdentifier": "",
+    "ValueDescription": ""
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

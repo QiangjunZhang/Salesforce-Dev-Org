@@ -1,0 +1,26 @@
+{
+  "Object": "UnitOfMeasure",
+  "Fields": {
+    "ConversionFactor": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Dollars",
+    "GearsetExternalId__c": "UAEFbV10000002dEh0",
+    "Name": "Dollars",
+    "RoundingMethod": "",
+    "Scale": "",
+    "Sequence": "",
+    "Status": "Draft",
+    "Type": "Cost",
+    "UnitCode": "DLRS"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasureClass",
+      "ReferencedObject": "UnitOfMeasureClass",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAGDmm00000002dQB1"
+      }
+    }
+  ]
+}

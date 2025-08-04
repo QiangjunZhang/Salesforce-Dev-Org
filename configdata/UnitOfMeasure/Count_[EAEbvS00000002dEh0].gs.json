@@ -1,0 +1,26 @@
+{
+  "Object": "UnitOfMeasure",
+  "Fields": {
+    "ConversionFactor": "1.0",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Count",
+    "GearsetExternalId__c": "EAEbvS00000002dEh0",
+    "Name": "Count",
+    "RoundingMethod": "",
+    "Scale": "",
+    "Sequence": "1",
+    "Status": "Active",
+    "Type": "Count",
+    "UnitCode": "COUNT"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasureClass",
+      "ReferencedObject": "UnitOfMeasureClass",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAG8zE00000002dQB1"
+      }
+    }
+  ]
+}

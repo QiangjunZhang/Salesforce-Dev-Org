@@ -1,0 +1,13 @@
+{
+  "Object": "RatingRequest",
+  "Fields": {
+    "ContextDefinition": "AssetContext",
+    "ContextMapping": "123",
+    "DoesExcludeWaterfall": "false",
+    "GearsetDisplayName": "EACn0Y20000002drF1",
+    "GearsetExternalId__c": "EACn0Y20000002drF1",
+    "RatingProcedureName": "MyRatingProcedure",
+    "Status": "Pending"
+  },
+  "References": []
+}

@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "CMP001",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Computer",
+    "GearsetExternalId__c": "JAEfKw6E000002dB11",
+    "Name": "Computer",
+    "Status": "Active"
+  },
+  "References": []
+}

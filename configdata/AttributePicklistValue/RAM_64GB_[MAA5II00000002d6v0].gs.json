@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "RAM 64GB",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "RAM 64GB",
+    "GearsetDisplayName": "RAM 64GB",
+    "GearsetExternalId__c": "MAA5II00000002d6v0",
+    "IsDefault": "false",
+    "Name": "RAM 64GB",
+    "Sequence": "4.0",
+    "Status": "Draft",
+    "Value": "RAM 64GB"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAinL00000002d5v0"
+      }
+    }
+  ]
+}

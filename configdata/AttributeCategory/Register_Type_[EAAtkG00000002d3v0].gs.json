@@ -1,0 +1,12 @@
+{
+  "Object": "AttributeCategory",
+  "Fields": {
+    "Code": "REGTYP",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Register Type",
+    "GearsetExternalId__c": "EAAtkG00000002d3v0",
+    "Name": "Register Type"
+  },
+  "References": []
+}

@@ -1,0 +1,29 @@
+{
+  "Object": "ProductCategory",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Energy",
+    "GearsetExternalId__c": "AAG9e040000002dGZ0",
+    "IsNavigational": "true",
+    "Name": "Energy",
+    "SortOrder": ""
+  },
+  "References": [
+    {
+      "Name": "Catalog",
+      "ReferencedObject": "ProductCatalog",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAGRpb30000002dSZ0"
+      }
+    },
+    {
+      "Name": "ParentCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

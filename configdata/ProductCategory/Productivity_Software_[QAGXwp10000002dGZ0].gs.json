@@ -1,0 +1,29 @@
+{
+  "Object": "ProductCategory",
+  "Fields": {
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "GearsetDisplayName": "Productivity Software",
+    "GearsetExternalId__c": "QAGXwp10000002dGZ0",
+    "IsNavigational": "true",
+    "Name": "Productivity Software",
+    "SortOrder": ""
+  },
+  "References": [
+    {
+      "Name": "Catalog",
+      "ReferencedObject": "ProductCatalog",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "YAGTUa10000002dSZ0"
+      }
+    },
+    {
+      "Name": "ParentCategory",
+      "ReferencedObject": "ProductCategory",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

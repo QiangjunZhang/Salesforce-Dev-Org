@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "CS001",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Cloud Storage",
+    "GearsetExternalId__c": "JAEjKw6E000002dB11",
+    "Name": "Cloud Storage",
+    "Status": "Active"
+  },
+  "References": []
+}

@@ -1,0 +1,10 @@
+{
+  "Object": "AttributeBasedAdjRule",
+  "Fields": {
+    "GearsetDisplayName": "MyNewAttributeBasedAdjustmentRule",
+    "GearsetExternalId__c": "YAEDGl10000002dH21",
+    "Name": "MyNewAttributeBasedAdjustmentRule",
+    "UsageType": ""
+  },
+  "References": []
+}

@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "INSTL",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Installation",
+    "GearsetExternalId__c": "JAEpKw6E000002dB11",
+    "Name": "Installation",
+    "Status": "Active"
+  },
+  "References": []
+}

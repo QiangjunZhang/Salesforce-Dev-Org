@@ -1,0 +1,10 @@
+{
+  "Object": "AttributeBasedAdjRule",
+  "Fields": {
+    "GearsetDisplayName": "LemonsRule",
+    "GearsetExternalId__c": "IAEfMl10000002dH21",
+    "Name": "LemonsRule",
+    "UsageType": ""
+  },
+  "References": []
+}

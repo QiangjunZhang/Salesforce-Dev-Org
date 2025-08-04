@@ -1,0 +1,22 @@
+{
+  "Object": "AttributePicklist",
+  "Fields": {
+    "Code": "R0001",
+    "CurrencyIsoCode": "GBP",
+    "DataType": "Text",
+    "Description": "Register Type",
+    "GearsetDisplayName": "Register Type",
+    "GearsetExternalId__c": "EAAonL00000002d5v0",
+    "Name": "Register Type",
+    "Status": "Active"
+  },
+  "References": [
+    {
+      "Name": "UnitOfMeasure",
+      "ReferencedObject": "UnitOfMeasure",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}

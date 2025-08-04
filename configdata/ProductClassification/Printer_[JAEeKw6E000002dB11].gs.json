@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "PR001",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Printer",
+    "GearsetExternalId__c": "JAEeKw6E000002dB11",
+    "Name": "Printer",
+    "Status": "Active"
+  },
+  "References": []
+}

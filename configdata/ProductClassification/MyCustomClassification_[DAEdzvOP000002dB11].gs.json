@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "CSTM_CLSS",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "MyCustomClassification",
+    "GearsetExternalId__c": "DAEdzvOP000002dB11",
+    "Name": "MyCustomClassification",
+    "Status": "Active"
+  },
+  "References": []
+}

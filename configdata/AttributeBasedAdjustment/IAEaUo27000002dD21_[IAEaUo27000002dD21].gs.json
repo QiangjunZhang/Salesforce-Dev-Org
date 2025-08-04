@@ -1,0 +1,35 @@
+{
+  "Object": "AttributeBasedAdjustment",
+  "Fields": {
+    "AdjustmentType": "Override",
+    "AdjustmentValue": "14.99",
+    "CurrencyIsoCode": "GBP",
+    "EffectiveFrom": "2024-07-10T07:07:00.000Z",
+    "EffectiveTo": "",
+    "GearsetDisplayName": "IAEaUo27000002dD21",
+    "GearsetExternalId__c": "IAEaUo27000002dD21"
+  },
+  "References": [
+    {
+      "Name": "AttributeBasedAdjRule",
+      "ReferencedObject": "AttributeBasedAdjRule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAEgVZ00000002dH21"
+      }
+    },
+    {
+      "Name": "PriceAdjustmentSchedule",
+      "ReferencedObject": "PriceAdjustmentSchedule",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAE3rz10000002dX48"
+      }
+    },
+    {
+      "Name": "Product",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "MAAvUHb6000002dt10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "IC5.2",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Intel Core i9 5.2 GHz",
+    "GearsetDisplayName": "Intel Core i9 5.2 GHz",
+    "GearsetExternalId__c": "2AADII00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Intel Core i9 5.2 GHz",
+    "Sequence": "3.0",
+    "Status": "Draft",
+    "Value": "Intel Core i9 5.2 GHz"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAlnL00000002d5v0"
+      }
+    }
+  ]
+}

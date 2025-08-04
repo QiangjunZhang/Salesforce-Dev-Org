@@ -1,0 +1,15 @@
+{
+  "Object": "ProductCatalog",
+  "Fields": {
+    "CatalogType": "Sales",
+    "Code": "",
+    "CurrencyIsoCode": "GBP",
+    "Description": "",
+    "EffectiveEndDate": "",
+    "EffectiveStartDate": "",
+    "GearsetDisplayName": "Software Catalog",
+    "GearsetExternalId__c": "YAGTUa10000002dSZ0",
+    "Name": "Software Catalog"
+  },
+  "References": []
+}

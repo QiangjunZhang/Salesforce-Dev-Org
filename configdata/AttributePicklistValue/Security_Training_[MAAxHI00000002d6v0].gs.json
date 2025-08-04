@@ -1,0 +1,25 @@
+{
+  "Object": "AttributePicklistValue",
+  "Fields": {
+    "Abbreviation": "",
+    "Code": "Security Training",
+    "CurrencyIsoCode": "GBP",
+    "DisplayValue": "Security Training",
+    "GearsetDisplayName": "Security Training",
+    "GearsetExternalId__c": "MAAxHI00000002d6v0",
+    "IsDefault": "false",
+    "Name": "Security Training",
+    "Sequence": "2.0",
+    "Status": "Draft",
+    "Value": "Security Training"
+  },
+  "References": [
+    {
+      "Name": "Picklist",
+      "ReferencedObject": "AttributePicklist",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAAfnL00000002d5v0"
+      }
+    }
+  ]
+}

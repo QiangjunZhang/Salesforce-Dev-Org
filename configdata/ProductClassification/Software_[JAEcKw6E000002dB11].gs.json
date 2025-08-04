@@ -1,0 +1,12 @@
+{
+  "Object": "ProductClassification",
+  "Fields": {
+    "Code": "SFT001",
+    "CurrencyIsoCode": "GBP",
+    "GearsetDisplayName": "Software",
+    "GearsetExternalId__c": "JAEcKw6E000002dB11",
+    "Name": "Software",
+    "Status": "Active"
+  },
+  "References": []
+}

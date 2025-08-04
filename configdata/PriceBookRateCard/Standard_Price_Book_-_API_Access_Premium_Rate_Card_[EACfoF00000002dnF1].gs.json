@@ -1,0 +1,23 @@
+{
+  "Object": "PriceBookRateCard",
+  "Fields": {
+    "GearsetDisplayName": "Standard Price Book - API Access Premium Rate Card",
+    "GearsetExternalId__c": "EACfoF00000002dnF1"
+  },
+  "References": [
+    {
+      "Name": "PriceBook",
+      "ReferencedObject": "Pricebook2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "StandardPriceBook"
+      }
+    },
+    {
+      "Name": "RateCard",
+      "ReferencedObject": "RateCard",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "YAGJF800000002dIC1"
+      }
+    }
+  ]
+}
