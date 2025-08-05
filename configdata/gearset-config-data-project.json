@@ -1,6 +1,10 @@
 {
   "Packages": [
-    "Cpq"
+    "Cpq",
+    "ProductCatalogManagement",
+    "RateManagement",
+    "SalesforcePricing",
+    "UsageManagement"
   ],
   "Version": 1
 }
