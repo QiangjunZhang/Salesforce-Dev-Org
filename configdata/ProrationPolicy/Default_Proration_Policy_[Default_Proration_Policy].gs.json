@@ -1,0 +1,10 @@
+{
+  "Object": "ProrationPolicy",
+  "Fields": {
+    "GearsetDisplayName": "Default Proration Policy",
+    "Name": "Default Proration Policy",
+    "ProrationPolicyType": "StandardTimePeriods",
+    "RemainderStrategy": "AddToLast"
+  },
+  "References": []
+}
