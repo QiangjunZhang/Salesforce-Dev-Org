@@ -1,7 +1,7 @@
 {
   "Object": "ProductSellingModelOption",
   "Fields": {
-    "GearsetDisplayName": "API Access Premium - Term Based - Monthly",
+    "GearsetDisplayName": "API Access Premium - Term Based ",
     "IsDefault": "true"
   },
   "References": [
