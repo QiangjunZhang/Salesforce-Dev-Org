@@ -2,7 +2,7 @@
   "Object": "ProrationPolicy",
   "Fields": {
     "GearsetDisplayName": "Default Proration Policy",
-    "Name": "Default Proration Policy",
+    "Name": "Default Proration Policydd",
     "ProrationPolicyType": "StandardTimePeriods",
     "RemainderStrategy": "AddToLast"
   },
