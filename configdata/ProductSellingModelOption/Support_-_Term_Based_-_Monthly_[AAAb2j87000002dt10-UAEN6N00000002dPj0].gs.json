@@ -1,0 +1,23 @@
+{
+  "Object": "ProductSellingModelOption",
+  "Fields": {
+    "GearsetDisplayName": "Support - Term Based - Monthly",
+    "IsDefault": "false"
+  },
+  "References": [
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAb2j87000002dt10"
+      }
+    },
+    {
+      "Name": "ProductSellingModel",
+      "ReferencedObject": "ProductSellingModel",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "UAEN6N00000002dPj0"
+      }
+    }
+  ]
+}
